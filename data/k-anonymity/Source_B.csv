@@ -1,0 +1,1227 @@
+record_id,entity_id,Source,Name,Surname,birth_date,Sex,Place Of Birth,Nationality,Codice Belfiore
+rec_2,entity_723,B,Elio,Gambuti,12/20/1991,M,Italia,Italia,F572
+rec_8,entity_1712,B,Mihai,Mandache,07/23/1976,M,Romania,Romania,Z129
+rec_9,entity_64,B,Diletta,Giampiccolo,01/21/1973,F,Italia,Italia,D969
+rec_10,entity_859,B,Giorgio,Poggi,07/03/1986,M,Italia,Italia,C566
+rec_25,entity_771,B,Enrico,Santorio,04/23/1972,M,Italia,Italia,E063
+rec_26,entity_633,B,Sabatino,Polani,10/25/1993,M,Italia,Italia,F839
+rec_28,entity_374,B,Aurelio,Lenzi,09/01/1972,M,Italia,Italia,D761
+rec_34,entity_971,B,Fabiom,Pasini,07/24/1966,M,Italia,Italia,F585
+rec_35,entity_832,B,Ezio,Madonia,04/30/2002,M,Canada,Italia,Z401
+rec_36,entity_1898,B,Sylvanus Olatunde,Williams,06/21/1963,M,Nigeria,Nigeria,Z335
+rec_37,entity_1694,B,Mohamed Khaldoun,Ragheb,06/05/1998,M,Siria,Siria,Z240
+rec_38,entity_330,B,Goffredo,Omma,07/23/1991,M,Italia,Italia,I690
+rec_39,entity_1614,B,Ali,Lachkar,12/07/1994,M,Marocco,Marocco,Z330
+rec_43,entity_1758,B,Ruslan,Boditeanu,11/13/1995,M,Moldova,Moldova,Z140
+rec_45,entity_604,B,Giovanni,Vespga,08/09/1984,M,Italia,Italia,F205
+rec_47,entity_1266,B,Roberto,Cassio,05/10/1975,M,Italia,Italia,A401
+rec_53,entity_336,B,Matteo,Baldacci,05/26/1992,M,Italia,Italia,F839
+rec_56,entity_916,B,Giovanni,Platini,11/24/1975,M,Italia,Italia,D122
+rec_57,entity_1296,B,Raffaele,Ametrano,05/09/1977,M,Italia,Italia,E472
+rec_60,entity_1873,B,Fares,Al-Ferjani,04/15/1995,M,Tunisia,Tunisia,Z352
+rec_62,entity_1522,B,Hicham,Benali,05/18/1976,M,Marocco,Marocco,Z330
+rec_63,entity_319,B,Giorgio,Togliati,05/15/1962,M,Italia,Italia,H501
+rec_64,entity_689,B,Fabio,Milano,03/01/1968,M,Italia,Italia,G348
+rec_65,entity_1955,B,Mustafa,Trajazi,12/21/1988,M,Albania,Albania,Z100
+rec_73,entity_6,B,Daniela,Porcelli,04/07/1977,F,Italia,Italia,A546
+rec_75,entity_1812,B,Yassine,Djakrir,11/28/1976,M,Algeria,Algeria,Z301
+rec_82,entity_478,B,Davide,Simoncelli,12/02/1989,M,Italia,Italia,A662
+rec_86,entity_1718,B,Arturo,Fernansez,05/25/1986,M,Peru,Peru,Z611
+rec_91,entity_1429,B,Anderi,Igorov,03/13/1962,M,Romania,Romania,Z129
+rec_93,entity_1164,B,Sergio,Ballesio,08/07/1982,M,Francia,Italia,Z110
+rec_101,entity_1088,B,Severino,Compagnoni,09/04/1984,M,Italia,Italia,L719
+rec_103,entity_60,B,Crustina,Pabst,07/27/1981,F,Italia,Italia,E958
+rec_104,entity_799,B,Michelangelo,Borriello,03/01/1965,M,Italia,Italia,F205
+rec_107,entity_1983,B,KhaledA bdel,Rahman,08/07/1968,M,Egitto,Egitto,Z336
+rec_109,entity_657,B,Gaetano,Gramsci,08/16/1964,M,Italia,Italia,D653
+rec_110,entity_123,B,Mariano,Antonelli,02/14/1951,M,Italia,Italia,I452
+rec_112,entity_396,B,Romano,Battisti,07/11/1965,M,Italia,Italia,G811
+rec_113,entity_1947,B,Jacinto,de Jesus Ayala Benjamin,08/31/1998,M,Repubblica Dominicana,Repubblica Dominicana,Z505
+rec_116,entity_1721,B,Ognjen,Sokolovi,09/18/1980,M,Bosnia e Erzegovina,Bosnia e Erzegovina,Z153
+rec_126,entity_1064,B,Leone,Schiaparelli,06/12/1991,M,Italia,Italia,G691
+rec_127,entity_132,B,Carlo,Caglieris,07/06/1999,M,Italia,Italia,H501
+rec_128,entity_904,B,Giorgio,Avola,11/25/1990,M,Italia,Italia,G686
+rec_137,entity_113,B,Franco,Orgera,12/04/1979,M,Italia,Italia,C852
+rec_140,entity_768,B,Carlo,Asinari,01/10/1981,M,Italia,Italia,L781
+rec_142,entity_850,B,Giosuè,Barillaro,09/09/1978,M,Italia,Italia,G691
+rec_146,entity_1072,B,Ignazio,Nosiglia,04/20/1957,M,Italia,Italia,H501
+rec_148,entity_1576,B,Valentin,Creu,10/05/1989,M,Romania,Romania,Z129
+rec_150,entity_1388,B,El-Tayeb El-Hadj Ben,Khrlfallah,10/04/1987,M,Algeria,Algeria,Z301
+rec_151,entity_89,B,Antoni,Calebotta,07/18/1957,M,Italia,Italia,D711
+rec_157,entity_883,B,Iseppi,Gino,07/02/1950,M,Italia,Italia,C986
+rec_164,entity_1104,B,Franco,Ciampitti,11/10/1991,M,Italia,Italia,B872
+rec_169,entity_300,B,Rodolfo,Rambozzi,06/16/1983,M,Italia,Italia,A963
+rec_171,entity_1234,B,Angelo,Cartara,06/09/1953,M,Italia,Italia,G482
+rec_172,entity_1447,B,Mohamed,Moustaoui,07/22/1985,M,Marocco,Marocco,Z330
+rec_173,entity_1182,B,Giancarli,Agazzi,02/21/1989,M,Italia,Italia,D960
+rec_175,entity_1049,B,Gerardo,Gabrieli,12/31/1959,M,Italia,Italia,B602
+rec_181,entity_536,B,Flavio,Cannone,08/08/1973,M,Italia,Italia,I377
+rec_186,entity_1699,B,Omar,Kadiri,12/25/1980,M,Marocco,Marocco,Z330
+rec_193,entity_1544,B,Davor,Vlakovac,02/18/1987,M,Bosnia e Erzegovina,Bosnia e Erzegovina,Z153
+rec_194,entity_239,B,Ettore,Boiardo,10/05/1978,M,Italia,Italia,F205
+rec_198,entity_66,B,Manuela,Angeli,09/06/1976,F,Italia,Italia,F052
+rec_204,entity_790,B,Giuliano,Sinisi,06/29/1989,M,Italia,Italia,H501
+rec_214,entity_493,B,Marcello,Tittarelli,08/29/1974,M,Italia,Italia,G273
+rec_216,entity_1566,B,Mazen,Tuleimat,09/30/1994,M,Siria,Siria,Z240
+rec_222,entity_470,B,Bruno,Finxi,03/12/1962,M,Belgio,Italia,Z103
+rec_224,entity_558,B,Gaetano,Gulftta,02/20/1979,M,Italia,Italia,M082
+rec_228,entity_824,B,Giorgio,Jegher,01/16/1980,M,Italia,Italia,F205
+rec_229,entity_494,B,Luigi Walt3r,Moretti,12/14/1974,M,Italia,Italia,F257
+rec_230,entity_1724,B,Mustapha Jaafar,Naitlhou,02/09/1998,M,Marocco,Marocco,Z330
+rec_232,entity_861,B,Nicolas,Bean,12/24/1985,M,Italia,Italia,H501
+rec_236,entity_1937,B,Stephen,Baidoo,09/04/1989,M,Ghana,Ghana,Z318
+rec_238,entity_228,B,Giovanni-Battista,Orlandi,06/03/1979,M,Italia,Italia,A056
+rec_239,entity_293,B,Guglielmo,Del Bimbo,05/23/1968,M,Italia,Italia,D612
+rec_244,entity_1325,B,Alessandro,Vlotto,06/27/1982,M,Italia,Italia,B962
+rec_247,entity_817,B,Sergio Eliseo,Ottolina,12/15/1953,M,Italia,Italia,C740
+rec_251,entity_1128,B,Nemo,Agodi,03/12/1993,M,Italia,Italia,C351
+rec_255,entity_1267,B,Fortunato,Tosto,05/02/1997,M,Italia,Italia,F839
+rec_258,entity_78,B,Andrea,Coda,11/23/1992,M,Italia,Italia,F924
+rec_264,entity_1500,B,Arsne Kra,Konan,12/19/1999,M,Costa D'Avorio,Costa D'Avorio,Z313
+rec_271,entity_560,B,Romeo,Pugliese,07/17/1970,M,Italia,Italia,E256
+rec_277,entity_701,B,Angelo,De Martini,12/17/1949,M,Italia,Italia,H501
+rec_281,entity_381,B,Gianni,Giacomini,09/20/1980,M,Italia,Italia,H501
+rec_285,entity_83,B,Tarcisio,Burgnich,05/14/1985,M,Italia,Italia,C003
+rec_286,entity_587,B,Giampaolo,Manolesso,08/13/1982,M,Italia,Italia,H501
+rec_287,entity_1130,B,Valerio,Cleri,04/22/1999,M,Italia,Italia,A182
+rec_291,entity_482,B,Oscar,Prati,12/25/1970,M,Italia,Italia,C860
+rec_292,entity_1980,B,Dumitru,Musta,11/08/1991,M,Romania,Romania,Z129
+rec_294,entity_947,B,Omero,Taddeini,08/26/1978,M,Italia,Italia,H101
+rec_298,entity_1697,B,Teodoro,Alcalde Millos,01/11/1993,M,Peru,Peru,Z611
+rec_306,entity_1821,B,Macauley,Appas,06/12/1993,M,Nigeria,Nigeria,Z335
+rec_310,entity_273,B,Giulio,Cacciandrq,12/20/1998,M,Italia,Italia,F377
+rec_312,entity_1334,B,Giorgio,Goldoni,11/28/1978,M,Italia,Italia,H727
+rec_314,entity_775,B,Arduino,Tiraboschi,09/23/1971,M,Italia,Italia,I628
+rec_323,entity_1740,B,Abdelhamid,Kaoutari,09/25/1978,M,Marocco,Marocco,Z330
+rec_327,entity_1098,B,Rodolfo,Pizzamano,10/20/1974,M,Brasile,Italia,Z602
+rec_329,entity_459,B,Mauro,Crenna,06/28/1985,M,Italia,Italia,C312
+rec_330,entity_61,B,Barbara,Lah,09/25/1991,F,Italia,Italia,F839
+rec_333,entity_1358,B,Fernanda Nunes Leal,Ferreira,12/01/1978,F,Brasile,Brasile,Z602
+rec_336,entity_1143,B,Melli,Alessandro,03/12/1971,M,Italia,Italia,H501
+rec_340,entity_666,B,Dantw,Garzoni,11/21/1984,M,Italia,Italia,F205
+rec_341,entity_1606,B,Zeeshan,Ashraf,04/24/2000,M,Pakistan,Pakistan,Z236
+rec_342,entity_1958,B,Jamal,Ben,03/08/1985,M,Marocco,Marocco,Z330
+rec_344,entity_262,B,Giovanni,Minervini,09/07/1986,M,Italia,Italia,C621
+rec_345,entity_385,B,Martino,Foconi,07/01/1977,M,Italia,Italia,I452
+rec_346,entity_1835,B,Hassan,Lahmaoui,07/04/1991,M,Marocco,Marocco,Z330
+rec_353,entity_221,B,Pierfrancesco,Agostinelli,07/29/1986,M,Italia,Italia,I330
+rec_360,entity_165,B,Carlo,Vitrano,08/04/1954,M,Italia,Italia,F839
+rec_367,entity_1186,B,Colombo,Andrea,11/20/1968,M,Italia,Italia,F944
+rec_369,entity_711,B,Paolo,Pininfarina,04/01/1990,M,Italia,Italia,F284
+rec_376,entity_1412,B,Ayoub,Bouziane,07/28/1991,M,Marocco,Marocco,Z330
+rec_377,entity_207,B,Cesate,Valle,12/09/1953,M,Italia,Italia,L142
+rec_381,entity_1519,B,Mamburray,Jadama,01/01/1988,M,Gambia,Gambia,Z317
+rec_382,entity_1348,B,Jinlin,Wang,05/27/2003,F,Cina,Cina,Z210
+rec_387,entity_40,B,Nikoleta,Stefanova,01/12/1974,F,Italia,Italia,F205
+rec_389,entity_289,B,Renzo,Sambo,06/10/1986,M,Italia,Italia,F158
+rec_390,entity_1299,B,Dario,Dentale,12/06/1974,M,Italia,Italia,H926
+rec_391,entity_791,B,Giulio,Mimujn,11/18/1982,M,Italia,Italia,G713
+rec_392,entity_556,B,Gastonle,Baldi,04/28/1987,M,Italia,Italia,F257
+rec_393,entity_1372,B,Nikolay Ivanovich,Paslar,04/24/1994,M,Bulgaria,Bulgaria,Z104
+rec_397,entity_1420,B,Sorin,Poenaru,04/07/1978,M,Romania,Romania,Z129
+rec_399,entity_1301,B,Fausto,Ferragamo,03/16/1978,M,Italia,Italia,A952
+rec_403,entity_75,B,Gianmarco,Rizzoli,09/16/1982,M,Italia,Italia,I684
+rec_405,entity_842,B,Marco Aurelio,Fontnaa,07/08/1976,M,Italia,Italia,G888
+rec_407,entity_334,B,Dino,Leopardi,04/18/1968,M,Italia,Italia,I496
+rec_410,entity_1781,B,Abdel Majid Salah,Naji,07/08/1963,M,Tunisia,Tunisia,Z352
+rec_411,entity_979,B,Giovanni,Furlani,08/16/1985,M,Italia,Italia,C860
+rec_416,entity_1352,B,Mirsada,Buri,01/19/1978,F,Bosnia e Erzegovina,Bosnia e Erzegovina,Z153
+rec_417,entity_1222,B,Donatello,Rossellini,03/16/1978,M,Italia,Italia,L219
+rec_419,entity_1533,B,Allamouta,Samateh,07/31/1986,M,Gambia,Gambia,Z317
+rec_420,entity_1460,B,Mehdi,Reda,03/18/1986,M,Marocco,Marocco,Z330
+rec_425,entity_819,B,Michelangelo,Crispi,03/19/1968,M,Italia,Italia,G674
+rec_426,entity_1939,B,Ymer Bej,Shijaku,01/18/1984,M,Albania,Albania,Z100
+rec_428,entity_1233,B,Vitaliano,Masotti,06/08/1986,M,Italia,Italia,A026
+rec_430,entity_1690,B,Beqir,Rusi,01/14/1988,M,Albania,Albania,Z100
+rec_432,entity_1282,B,Mario,Celon,01/09/1973,M,Italia,Italia,G482
+rec_434,entity_1209,B,Lando,Anguissola,07/10/1972,M,Italia,Italia,F839
+rec_435,entity_60,B,Crustina,Pabst,07/27/1981,F,Italia,Italia,E958
+rec_438,entity_949,B,Geminio,Ognio,11/09/1989,M,Italia,Italia,L483
+rec_441,entity_1670,B,Branislav,Mitrovi,06/15/1991,M,Serbia,Serbia,Z158
+rec_443,entity_1990,B,Veli,Dedi,03/29/1974,M,Albania,Albania,Z100
+rec_448,entity_887,B,Giacomo,Di Segni,02/03/1987,M,Italia,Italia,F158
+rec_449,entity_963,B,Gioachino,Piccinni,07/13/1969,M,Italia,Italia,I462
+rec_452,entity_452,B,Gianluigi,Venditti,06/17/1994,M,Italia,Italia,H978
+rec_453,entity_856,B,Carlo,Mattioli,10/06/1999,M,Italia,Italia,H114
+rec_454,entity_483,B,Armando,Bertoli,01/11/1970,M,Italia,Italia,M088
+rec_456,entity_1154,B,Marii,Moschi,06/14/1967,M,Italia,Italia,F257
+rec_457,entity_1494,B,Gustavo,Ramirez,08/14/1997,M,Peru,Peru,Z611
+rec_458,entity_877,B,Francesco,Luciani,01/30/1965,M,Italia,Italia,H501
+rec_464,entity_1527,B,Abdel Majid,Hadry,10/30/1979,M,Marocco,Marocco,Z330
+rec_465,entity_293,B,Guglielmo,Del Bimbo,05/23/1968,M,Italia,Italia,D612
+rec_469,entity_970,B,Enzo,Sacchi,11/13/1975,M,Italia,Italia,C927
+rec_473,entity_714,B,Sergio,Carvpreso,10/06/1968,M,Italia,Italia,C933
+rec_480,entity_1434,B,Abdelhadi,Legdali,09/06/1989,M,Marocco,Marocco,Z330
+rec_482,entity_1468,B,Mohamed,Jelili,03/31/1981,M,Tunisia,Tunisia,Z352
+rec_494,entity_117,B,Michele,Zerial,09/14/1974,M,Italia,Italia,F839
+rec_500,entity_184,B,Rossi,Antonio,10/24/1980,M,Italia,Italia,L328
+rec_501,entity_1406,B,Sorni,Petcu,04/13/1977,M,Romania,Romania,Z129
+rec_507,entity_1659,B,Alex,Martinez,10/04/1976,M,Ecuador,Ecuador,Z605
+rec_514,entity_1623,B,Aurel,Macsrencu,08/21/1995,M,Romania,Romania,Z129
+rec_515,entity_1743,B,Imed Ben,Younes,07/12/1974,M,Tunisia,Tunisia,Z352
+rec_517,entity_636,B,Fedele,Sbarbaro,01/31/1995,M,Italia,Italia,L407
+rec_518,entity_1066,B,Federico,Cappellazzo,03/24/1997,M,Italia,Italia,I551
+rec_520,entity_783,B,Adamo,Antonioni,01/07/1974,M,Italia,Italia,E281
+rec_521,entity_1046,B,Claudio,Fiorentini,04/15/1966,M,Italia,Italia,H703
+rec_523,entity_1784,B,Abdellah,Zoubir,01/14/1988,M,Marocco,Marocco,Z330
+rec_524,entity_175,B,Francesco,Pietrasanta,09/10/1995,M,Italia,Italia,G999
+rec_526,entity_545,B,Francesco,Casolari,06/23/1987,M,Italia,Italia,C134
+rec_541,entity_252,B,Orlando,Leopardi,08/15/1966,M,Italia,Italia,F205
+rec_547,entity_1617,B,Khalid,Tigazouine,10/24/1997,M,Marocco,Marocco,Z330
+rec_555,entity_266,B,Ludovico,Zabarella,01/09/1951,M,Italia,Italia,F205
+rec_556,entity_1130,B,Valerio,Cleri,04/22/1999,M,Italia,Italia,A182
+rec_558,entity_186,B,Clemente,Ossola,09/22/1997,M,Uruguay,Italia,Z613
+rec_570,entity_53,B,Daria Camilla,Fantoni,02/22/1994,F,Italia,Italia,E625
+rec_572,entity_115,B,Vezio,Sacratini,05/27/1961,M,Italia,Italia,H224
+rec_573,entity_1615,B,Aboulaye,Traor,11/26/1989,M,Mali,Mali,Z329
+rec_574,entity_15,B,Elena,Lagorara,07/19/1947,F,Italia,Italia,C286
+rec_578,entity_760,B,Pier Luigi,Vestrini,04/15/1964,M,Italia,Italia,D086
+rec_584,entity_265,B,Angelo,Vassallo,02/27/1962,M,Italia,Italia,L736
+rec_589,entity_1069,B,Flavio,Novaro,09/07/1995,M,Italia,Italia,B905
+rec_590,entity_315,B,Gianpietro,Guinzzelli,09/03/1980,M,Italia,Italia,H834
+rec_591,entity_1111,B,Aeturo,Trapanese,08/01/1974,M,Italia,Italia,F416
+rec_594,entity_1910,B,Mahdi,Ouatine,09/09/1995,M,Marocco,Marocco,Z330
+rec_596,entity_429,B,Arsenio,Tommaseo,12/24/1982,M,Italia,Italia,C351
+rec_603,entity_1420,B,Sorin,Poenaru,04/07/1978,M,Romania,Romania,Z129
+rec_605,entity_304,B,Philip,Gaetano,03/19/1971,M,Italia,Italia,F205
+rec_606,entity_1963,B,Raymondy,Narh,06/19/1987,M,Ghana,Ghana,Z318
+rec_607,entity_547,B,Stefano,Tempesti,10/08/1989,M,Italia,Italia,H501
+rec_610,entity_941,B,Edgardo,Toetti,11/16/1979,M,Italia,Italia,E216
+rec_612,entity_415,B,Orazio,Berlusconi,10/12/1951,M,Italia,Italia,A124
+rec_616,entity_1119,B,Mario,Riccoboni,11/12/1978,M,Italia,Italia,G843
+rec_617,entity_494,B,Luigi Walt3r,Moretti,12/14/1974,M,Italia,Italia,F257
+rec_622,entity_40,B,Nikoleta,Stefanova,01/12/1974,F,Italia,Italia,F205
+rec_625,entity_1169,B,Giuseppe,D'Urso,11/11/2000,M,Italia,Italia,F924
+rec_630,entity_191,B,Mauro,Bernardo,03/07/1965,M,Italia,Italia,B354
+rec_631,entity_900,B,Gioacchino,Guaragna,08/18/1960,M,Italia,Italia,I820
+rec_632,entity_728,B,Davide,Bresadola,10/05/1992,M,Italia,Italia,B180
+rec_633,entity_1560,B,Carlos Mario,Oquendo Zabala,08/30/1986,M,Colombia,Colombia,Z604
+rec_640,entity_801,B,Walter,Gradenigo,01/26/1978,M,Italia,Italia,D612
+rec_644,entity_63,B,Marialaura,Simonetto,08/21/1989,F,Italia,Italia,L719
+rec_645,entity_313,B,Michele,Pelliccia,02/24/1993,M,Italia,Italia,B455
+rec_649,entity_938,B,Francesco,Bottaro,02/02/1980,M,Italia,Italia,L872
+rec_652,entity_190,B,Saverio,Ragno,11/21/1961,M,Italia,Italia,D643
+rec_655,entity_581,B,Giulio,Dossetti,12/03/1969,M,Italia,Italia,L845
+rec_662,entity_467,B,Andrea,Jory,07/02/1967,M,Italia,Italia,C621
+rec_663,entity_914,B,Luigi,Ruspoli,11/19/1961,M,Italia,Italia,I921
+rec_665,entity_862,B,Constanzo,Mangino,04/18/1996,M,Italia,Italia,L259
+rec_667,entity_1245,B,Pietro,Marconi,07/27/1976,M,Italia,Italia,I577
+rec_668,entity_5,B,Clara Maria,Mochi,07/12/1986,F,Italia,Italia,H930
+rec_672,entity_1936,B,Ghariani,Fethi,07/12/1997,M,Tunisia,Tunisia,Z352
+rec_676,entity_1363,B,Ali,Annabi,12/20/1992,M,Tunisia,Tunisia,Z352
+rec_679,entity_1028,B,Gianni,Caldwna,11/22/1962,M,Italia,Italia,C514
+rec_680,entity_300,B,Rodolfo,Rambozzi,06/16/1983,M,Italia,Italia,A963
+rec_683,entity_1657,B,Ovodiu,Forai,10/29/1964,M,Romania,Romania,Z129
+rec_684,entity_146,B,Gianni,Patrignani,11/02/1967,M,Italia,Italia,A515
+rec_685,entity_32,B,Cristina,Sciolla,08/22/1973,F,Italia,Italia,I726
+rec_693,entity_877,B,Francesco,Luciani,01/30/1965,M,Italia,Italia,H501
+rec_694,entity_1689,B,Lazaro Maikel,Ruiz Gasso,11/29/1991,M,Cuba,Cuba,Z504
+rec_697,entity_1730,B,Roman,Vartolomeu,08/20/1984,M,Romania,Romania,Z129
+rec_698,entity_1651,B,Raul Girardo,Mazorra Zamora,05/29/1999,M,Cuba,Cuba,Z504
+rec_701,entity_812,B,Lukgi,Favretti,07/23/1973,M,Italia,Italia,D508
+rec_703,entity_856,B,Carlo,Mattioli,10/06/1999,M,Italia,Italia,H114
+rec_710,entity_1555,B,Moussa,Aouanouk,09/23/1993,M,Algeria,Algeria,Z301
+rec_721,entity_147,B,Simone,Pedrazzini,12/21/1964,M,Italia,Italia,C573
+rec_724,entity_483,B,Armando,Bertoli,01/11/1970,M,Italia,Italia,M088
+rec_728,entity_1996,B,Jaddor Hamadi Ben,Haddou,01/24/2000,M,Marocco,Marocco,Z330
+rec_738,entity_3,B,Norma,Murabito,12/07/1970,F,Italia,Italia,A944
+rec_744,entity_445,B,Cor5ado,Navarria,07/02/1979,M,Italia,Italia,A530
+rec_749,entity_187,B,Gianfranco,Pisacane,03/08/1993,M,Italia,Italia,F585
+rec_751,entity_1258,B,Tommaso,Dotti,07/31/1992,M,Italia,Italia,A662
+rec_756,entity_237,B,Lamberto,Togliatti,09/04/1966,M,Italia,Italia,C514
+rec_759,entity_328,B,Arsenio,Canova,01/26/1993,M,Italia,Italia,A345
+rec_762,entity_1870,B,Ndre,Mjeda,05/12/1981,M,Albania,Albania,Z100
+rec_763,entity_556,B,Gastonle,Baldi,04/28/1987,M,Italia,Italia,F257
+rec_764,entity_1972,B,Otmane,El-Assas,11/23/1986,M,Marocco,Marocco,Z330
+rec_766,entity_629,B,Donato,Trussardi,03/20/1974,M,Italia,Italia,D656
+rec_767,entity_131,B,Alessandro,Pistone,09/30/1960,M,Italia,Italia,E506
+rec_768,entity_788,B,Guglielmo Giovanni,Brezzi,06/02/1969,M,Francia,Italia,Z110
+rec_770,entity_99,B,Giacomo,Puosi,01/09/1980,M,Italia,Italia,F839
+rec_773,entity_1430,B,Ahmed Muhammad,Khan,12/21/1975,M,India,India,Z222
+rec_774,entity_309,B,Alessandro,Brogini,10/17/1954,M,Italia,Italia,C773
+rec_775,entity_902,B,Gustavo,Conti,08/31/1948,M,Italia,Italia,L273
+rec_777,entity_867,B,Emanuele,Abate,05/16/1988,M,Italia,Italia,H269
+rec_778,entity_1793,B,Bouzid,Mahiouz,05/15/1974,M,Algeria,Algeria,Z301
+rec_783,entity_141,B,Nicola,Brunelleschi,04/29/1969,M,Italia,Italia,C986
+rec_789,entity_25,B,Margherita,Zalaffi,04/02/1983,F,Italia,Italia,G482
+rec_796,entity_414,B,Simone,Montesano,12/19/1978,M,Italia,Italia,B963
+rec_798,entity_280,B,Nino,Carullo,03/29/1980,M,Italia,Italia,L378
+rec_800,entity_332,B,Riccardo,Ferri,02/25/1977,M,Italia,Italia,F839
+rec_802,entity_1865,B,Hafiz,Ismeti,02/06/1971,M,Albania,Albania,Z100
+rec_805,entity_306,B,Luciano,Bona,11/02/1971,M,Italia,Italia,C129
+rec_806,entity_201,B,Danilo,Samele,06/20/1969,M,Italia,Italia,H501
+rec_811,entity_1225,B,Giuseppe,Gregorio,07/05/1970,M,Italia,Italia,L833
+rec_812,entity_1202,B,Sandro,Gualtieri,03/02/1975,M,Italia,Italia,D488
+rec_817,entity_1636,B,Lahcrn,Abrami,01/21/1979,M,Marocco,Marocco,Z330
+rec_818,entity_738,B,Raffaello,Barsanti,02/26/1976,M,Italia,Italia,G999
+rec_819,entity_64,B,Diletta,Giampiccolo,01/21/1973,F,Italia,Italia,D969
+rec_822,entity_1195,B,Pietro,Borsettie,02/15/1971,M,Italia,Italia,C469
+rec_826,entity_1389,B,Abbas,Mohamed,08/08/1980,M,Nigeria,Nigeria,Z335
+rec_827,entity_928,B,Laureano,Fusani,07/01/1963,M,Italia,Italia,F205
+rec_829,entity_400,B,Gabriele,Magni,08/03/1973,M,Italia,Italia,G273
+rec_830,entity_328,B,Arsenio,Canova,01/26/1993,M,Italia,Italia,A345
+rec_831,entity_107,B,Giovanni,Abagnale,02/03/1965,M,Italia,Italia,D390
+rec_833,entity_1593,B,Vilmo,Szabo,08/20/1972,M,Romania,Romania,Z129
+rec_835,entity_90,B,Ugo,Locatelli,10/26/1963,M,Italia,Italia,H240
+rec_836,entity_1191,B,Gabriele,Salviati,05/29/1987,M,Italia,Italia,L155
+rec_838,entity_882,B,Mauro,Ruggieri,09/01/1987,M,Italia,Italia,H501
+rec_839,entity_1990,B,Veli,Dedi,03/29/1974,M,Albania,Albania,Z100
+rec_840,entity_1439,B,Zarugh,Jamal,09/05/1977,M,Libia,Libia,Z326
+rec_841,entity_1366,B,Sarath Prasanna,Gamage,10/16/1973,M,Sri Lanka,Sri Lanka,Z209
+rec_842,entity_1093,B,Pieralberto,Carrara,05/13/1966,M,Italia,Italia,C523
+rec_843,entity_1264,B,Armido,Rizzetto,02/10/1991,M,Italia,Italia,L219
+rec_844,entity_939,B,Ernesto,Casellati,04/15/1990,M,Italia,Italia,M172
+rec_851,entity_535,B,Giulio,Rusticucci,04/11/1970,M,Italia,Italia,H501
+rec_852,entity_1167,B,Mauro,Calvo,06/22/1985,M,Italia,Italia,M122
+rec_853,entity_1890,B,Naoufel,Rabah,08/12/2003,M,Tunisia,Tunisia,Z352
+rec_854,entity_1963,B,Raymondy,Narh,06/19/1987,M,Ghana,Ghana,Z318
+rec_858,entity_875,B,Alberto,Senigagliesi,06/11/1987,M,Italia,Italia,M088
+rec_862,entity_167,B,Ciro,Mercadante,02/11/1959,M,Italia,Italia,D704
+rec_867,entity_1762,B,Julius Obiefuma,Chigbolu,06/18/1975,M,Nigeria,Nigeria,Z335
+rec_880,entity_207,B,Cesate,Valle,12/09/1953,M,Italia,Italia,L142
+rec_882,entity_831,B,Francesco Filippo,Bizzoni,08/14/1973,M,Italia,Italia,G282
+rec_890,entity_654,B,Umberto,Mozart,07/13/2001,M,Italia,Italia,D786
+rec_894,entity_1176,B,Christian,Mura,04/08/1986,M,Italia,Italia,G371
+rec_898,entity_156,B,Roberto,Gamper,06/30/1987,M,Italia,Italia,D236
+rec_900,entity_77,B,Gustavo,Crispi,09/20/1995,M,Italia,Italia,C773
+rec_902,entity_948,B,Mario Umberto,De Silva,08/02/1987,M,Italia,Italia,M295
+rec_903,entity_1882,B,Abdel Hamid,Slimani,01/06/1988,M,Marocco,Marocco,Z330
+rec_906,entity_1691,B,Subbaiah,Bopaiah,11/05/1984,M,India,India,Z222
+rec_909,entity_659,B,Piero,Giovine,12/26/1989,M,Italia,Italia,A522
+rec_921,entity_812,B,Lukgi,Favretti,07/23/1973,M,Italia,Italia,D508
+rec_928,entity_1120,B,Roland,Ramoser,07/19/1985,M,Italia,Italia,F839
+rec_930,entity_1832,B,Sunday,Emmanuel,06/03/1986,M,Nigeria,Nigeria,Z335
+rec_931,entity_360,B,Gennaro,Riccati,01/07/1965,M,Italia,Italia,H501
+rec_932,entity_1377,B,Anthony Emmanuel,Mmoh,03/01/1979,M,Nigeria,Nigeria,Z335
+rec_937,entity_789,B,Cipriano,Zacco,07/07/2001,M,Italia,Italia,H501
+rec_938,entity_996,B,Amadeo,Borsellino,02/24/1966,M,Germania,Italia,Z112
+rec_942,entity_592,B,Micbele,Mimun,04/19/1978,M,Italia,Italia,F839
+rec_944,entity_784,B,Niccol Giovanni,Mornati,06/02/1963,M,Italia,Italia,A455
+rec_945,entity_675,B,Stefano,Desideri,05/09/1966,M,Italia,Italia,C895
+rec_949,entity_1984,B,Andriy,Shafraniuk,09/11/1988,M,Ucraina,Ucraina,Z138
+rec_952,entity_1481,B,Iliaz,Vrioni,05/06/1991,M,Albania,Albania,Z100
+rec_956,entity_985,B,Carlo,Lievore,09/05/1986,M,Italia,Italia,F061
+rec_957,entity_532,B,Umberto,Silvestri,06/29/1960,M,Italia,Italia,B885
+rec_958,entity_1136,B,Mirko,Fahtozzi,03/04/1969,M,Italia,Italia,A028
+rec_961,entity_650,B,Giancarlo,Bruscantini,09/12/1983,M,Italia,Italia,L781
+rec_962,entity_1480,B,Claudiu Gabriel,Marin,03/08/1984,M,Italia,Romania,L736
+rec_969,entity_1605,B,Monday,Jsmes,10/14/1990,M,Nigeria,Nigeria,Z335
+rec_973,entity_1683,B,Abdel Aziz Ben,Abdallah,10/17/1980,M,Tunisia,Tunisia,Z352
+rec_974,entity_1337,B,Franco,Antonelli,11/30/1980,M,Italia,Italia,E058
+rec_975,entity_734,B,Tito,Ambrosini,04/03/1960,M,Italia,Italia,E472
+rec_976,entity_765,B,Pietro,Bruschi,09/09/1979,M,Italia,Italia,C312
+rec_978,entity_881,B,Gianluca,Balbwi,05/28/1977,M,Italia,Italia,F839
+rec_981,entity_532,B,Umberto,Silvestri,06/29/1960,M,Italia,Italia,B885
+rec_986,entity_137,B,Luca,Paolini,10/21/1994,M,Italia,Italia,E518
+rec_987,entity_276,B,Girolamo,Sauli,03/03/1967,M,Italia,Italia,L736
+rec_988,entity_1080,B,Rino,Eco,04/10/1972,M,Italia,Italia,E514
+rec_1002,entity_1154,B,Marii,Moschi,06/14/1967,M,Italia,Italia,F257
+rec_1004,entity_45,B,Anna Mria,Barabino,05/21/1986,F,Italia,Italia,H274
+rec_1006,entity_1097,B,Roberto,Tricella,12/03/1948,M,Italia,Italia,I535
+rec_1007,entity_1504,B,Bakir Ben,Aissa,08/08/1992,M,Marocco,Marocco,Z330
+rec_1009,entity_1162,B,Franco,Venturii,02/04/1981,M,Italia,Italia,F205
+rec_1012,entity_1330,B,Eseosa,Desalu,07/07/1993,M,Italia,Italia,A390
+rec_1016,entity_960,B,Giacomo,Pastorino,02/18/1983,M,Italia,Italia,F158
+rec_1017,entity_56,B,Giada,Rossi,09/30/1973,F,Italia,Italia,E507
+rec_1018,entity_13,B,Maria Paola,Turcutto,03/19/1986,F,Italia,Italia,L049
+rec_1021,entity_312,B,Vigilio,Mich,08/27/1985,M,Italia,Italia,D869
+rec_1025,entity_1006,B,Mattia,Nalesso,04/17/1987,M,Italia,Italia,A944
+rec_1027,entity_1437,B,Hamza,Abdou,08/04/1969,M,Marocco,Marocco,Z330
+rec_1030,entity_796,B,Quintino,Tropea,12/20/1964,M,Italia,Italia,H501
+rec_1031,entity_1308,B,Giulio,Giunta,07/15/1966,M,Italia,Italia,E754
+rec_1032,entity_210,B,Bernardo,Filogamo,03/05/1958,M,Italia,Italia,F205
+rec_1035,entity_1479,B,Adrian,Nastasiu,06/03/1985,M,Romania,Romania,Z129
+rec_1043,entity_1919,B,Ayoub,Zouhair,07/07/1997,M,Marocco,Marocco,Z330
+rec_1047,entity_287,B,Aureliano,Bolognesi,07/07/1998,M,Italia,Italia,F250
+rec_1051,entity_85,B,Fausto,Guidotti,02/11/1969,M,Italia,Italia,G812
+rec_1058,entity_636,B,Fedele,Sbarbaro,01/31/1995,M,Italia,Italia,L407
+rec_1063,entity_1072,B,Ignazio,Nosiglia,04/20/1957,M,Italia,Italia,H501
+rec_1066,entity_677,B,Giorgio,Anglesio,08/13/1979,M,Italia,Italia,D872
+rec_1069,entity_1589,B,Dede,Dekaj,12/08/1979,M,Albania,Albania,Z100
+rec_1072,entity_1989,B,Khalid,Skah,05/15/1996,M,Marocco,Marocco,Z330
+rec_1073,entity_514,B,Ivo,Broggini,08/19/1972,M,Italia,Italia,L885
+rec_1074,entity_733,B,Salvatroe,Mastroieni,09/29/1990,M,Italia,Italia,F205
+rec_1075,entity_1589,B,Dede,Dekaj,12/08/1979,M,Albania,Albania,Z100
+rec_1079,entity_1455,B,Valentin,Pntea,12/22/1996,M,Romania,Romania,Z129
+rec_1080,entity_276,B,Girolamo,Sauli,03/03/1967,M,Italia,Italia,L736
+rec_1084,entity_1430,B,Ahmed Muhammad,Khan,12/21/1975,M,India,India,Z222
+rec_1085,entity_1911,B,Yassine,Rahmouni,01/25/1981,M,Marocco,Marocco,Z330
+rec_1086,entity_976,B,Nunzio,Donati,07/13/1975,M,Italia,Italia,H501
+rec_1089,entity_1138,B,Guido Antar,Vigna,01/04/1993,M,Italia,Italia,H501
+rec_1090,entity_43,B,Roberta,F4lotti,12/31/1977,F,Italia,Italia,H096
+rec_1093,entity_1185,B,Italo,Salice,04/04/1963,M,Italia,Italia,C743
+rec_1098,entity_1172,B,Alberto,Benedetti,10/11/1989,M,Italia,Italia,D702
+rec_1100,entity_771,B,Enrico,Santorio,04/23/1972,M,Italia,Italia,E063
+rec_1101,entity_10,B,Marina,Cergol,03/20/1966,F,Italia,Italia,I535
+rec_1102,entity_697,B,Giorgio,Oberweger,04/11/1987,M,Italia,Italia,L840
+rec_1105,entity_1617,B,Khalid,Tigazouine,10/24/1997,M,Marocco,Marocco,Z330
+rec_1109,entity_1770,B,Adil,Kaaba,12/08/1985,M,Marocco,Marocco,Z330
+rec_1119,entity_370,B,Giovanni,Evangelisti,12/28/1955,M,Italia,Italia,C933
+rec_1126,entity_459,B,Mauro,Crenna,06/28/1985,M,Italia,Italia,C312
+rec_1127,entity_864,B,Patrizio,Bottaro,05/26/2000,M,Italia,Italia,A662
+rec_1131,entity_1000,B,Marcelco,Nizzola,11/29/1987,M,Italia,Italia,F839
+rec_1134,entity_1785,B,Gladstone,Agbamu,05/11/1999,M,Nigeria,Nigeria,Z335
+rec_1135,entity_186,B,Clemente,Ossola,09/22/1997,M,Uruguay,Italia,Z613
+rec_1136,entity_676,B,Ferdinando,Giorgi,03/05/1976,M,Italia,Italia,G834
+rec_1137,entity_1530,B,Hammou,Boutayeb,05/07/1997,M,Marocco,Marocco,Z330
+rec_1145,entity_1944,B,Adil,Samir,09/18/1994,M,Marocco,Marocco,Z330
+rec_1146,entity_1755,B,Theoharis,Trasha,08/11/1990,M,Albania,Albania,Z100
+rec_1149,entity_79,B,Giulio,Lombardi,07/08/1993,M,Italia,Italia,G999
+rec_1153,entity_1522,B,Hicham,Benali,05/18/1976,M,Marocco,Marocco,Z330
+rec_1154,entity_389,B,Akfredo,Del Francia,09/19/1988,M,Italia,Italia,A010
+rec_1157,entity_1548,B,Mendo,Radovicka,02/25/1999,M,Albania,Albania,Z100
+rec_1159,entity_1802,B,Rzvan,Petcu,05/06/1973,M,Romania,Romania,Z129
+rec_1160,entity_31,B,Tania,Detomas,10/20/2003,F,Italia,Italia,B076
+rec_1161,entity_1345,B,Sandra,de las Mercedes Ruales Mosquera,12/25/1990,F,Ecuador,Ecuador,Z605
+rec_1162,entity_1762,B,Julius Obiefuma,Chigbolu,06/18/1975,M,Nigeria,Nigeria,Z335
+rec_1165,entity_1710,B,Mario Osvaldo,Flores Ramos,02/05/1977,M,El Salvador,El Salvador,Z506
+rec_1166,entity_1317,B,Giuseppe,Zucchinetti,10/24/1990,M,Italia,Italia,B180
+rec_1168,entity_921,B,Benedetto,Baggio,06/10/1998,M,Italia,Italia,M309
+rec_1169,entity_1163,B,Vanzetta,Giorgio,11/19/1973,M,Italia,Italia,H501
+rec_1170,entity_155,B,Michele,Verdone,08/29/1993,M,Italia,Italia,A669
+rec_1171,entity_453,B,Beppe,Morgagni,11/26/1982,M,Italia,Italia,E054
+rec_1176,entity_1366,B,Sarath Prasanna,Gamage,10/16/1973,M,Sri Lanka,Sri Lanka,Z209
+rec_1179,entity_607,B,Nino,Bossi,01/18/1986,M,Italia,Italia,F205
+rec_1180,entity_566,B,Msrio,Pedretti,06/03/1954,M,Italia,Italia,G273
+rec_1184,entity_1285,B,Giorgio,Ferrini,06/14/1976,M,Italia,Italia,A952
+rec_1186,entity_46,B,Carlotta,Ferlito,07/05/1983,F,Italia,Italia,F839
+rec_1187,entity_1266,B,Roberto,Cassio,05/10/1975,M,Italia,Italia,A401
+rec_1189,entity_1257,B,Giorqio,De Bettin,02/24/1983,M,Italia,Italia,C351
+rec_1191,entity_1482,B,Alberto,Gonzalez Mas,05/04/1987,M,Cile,Cile,Z603
+rec_1196,entity_1015,B,Nicola,Vizzoni,05/26/1986,M,Italia,Italia,G452
+rec_1201,entity_701,B,Angelo,De Martini,12/17/1949,M,Italia,Italia,H501
+rec_1211,entity_11,B,Beatrice,Bartelloni,11/03/1992,F,Italia,Italia,A494
+rec_1212,entity_232,B,Arturo,Moroni,05/20/1986,M,Italia,Italia,H501
+rec_1213,entity_415,B,Orazio,Berlusconi,10/12/1951,M,Italia,Italia,A124
+rec_1215,entity_750,B,Antonip,Monicelli,07/31/1951,M,Italia,Italia,H224
+rec_1216,entity_371,B,Aurelio,Vigorelli,05/21/1987,M,Italia,Italia,E472
+rec_1218,entity_856,B,Carlo,Mattioli,10/06/1999,M,Italia,Italia,H114
+rec_1221,entity_666,B,Dantw,Garzoni,11/21/1984,M,Italia,Italia,F205
+rec_1224,entity_248,B,Riccardo Giorgio,Materizzi,06/02/1989,M,Italia,Italia,H501
+rec_1229,entity_1717,B,Feng,Ding,06/28/1983,M,Cina,Cina,Z210
+rec_1230,entity_1946,B,Ibranim Fakhr,El-Din,10/17/1992,M,Egitto,Egitto,Z336
+rec_1234,entity_670,B,Gianfranco,Pandolfini,10/15/1968,M,Italia,Italia,E335
+rec_1237,entity_718,B,Remo,Tomasi,08/01/1981,M,Italia,Italia,E224
+rec_1238,entity_178,B,Giuseppe,Michielli,11/18/1963,M,Italia,Italia,H769
+rec_1242,entity_1905,B,Ali,El Ouazzani,03/13/1991,M,Marocco,Marocco,Z330
+rec_1245,entity_1866,B,Petre,Sandor,10/27/1959,M,Romania,Romania,Z129
+rec_1246,entity_775,B,Arduino,Tiraboschi,09/23/1971,M,Italia,Italia,I628
+rec_1247,entity_1355,B,Faith,Idehen,07/26/1988,F,Nigeria,Nigeria,Z335
+rec_1259,entity_664,B,Fabio,Del Geenovese,02/02/1983,M,Italia,Italia,G686
+rec_1264,entity_1578,B,Edin,Krupalija,11/23/2001,M,Bosnia e Erzegovina,Bosnia e Erzegovina,Z153
+rec_1265,entity_464,B,Riccardo,Luca,10/09/1983,M,Italia,Italia,H223
+rec_1269,entity_168,B,Giovanni,Turba,08/19/1979,M,Italia,Italia,F839
+rec_1277,entity_3,B,Norma,Murabito,12/07/1970,F,Italia,Italia,A944
+rec_1278,entity_1928,B,Youssef Mohamed,Abbas,02/20/1992,M,Egitto,Egitto,Z336
+rec_1280,entity_1653,B,Mohammed,Morchid,09/22/1995,M,Marocco,Marocco,Z330
+rec_1281,entity_1705,B,Khalid,El-Aabidi,07/27/1987,M,Marocco,Marocco,Z330
+rec_1283,entity_1143,B,Melli,Alessandro,03/12/1971,M,Italia,Italia,H501
+rec_1287,entity_1058,B,Terenzio,Coardk,03/06/1977,M,Italia,Italia,D761
+rec_1289,entity_101,B,Aldo Luciano,Albera,11/12/1973,M,Italia,Italia,E173
+rec_1296,entity_390,B,Gelindo,Bordin,08/26/1968,M,Italia,Italia,D643
+rec_1298,entity_1803,B,Fuad,Asllani,10/05/1996,M,Albania,Albania,Z100
+rec_1300,entity_1892,B,Hicham,Tahiri,02/15/1992,M,Marocco,Marocco,Z330
+rec_1303,entity_366,B,Federico,Bisson,08/24/1981,M,Italia,Italia,A269
+rec_1307,entity_1464,B,Yusuf,Alli,12/03/1981,M,Nigeria,Nigeria,Z335
+rec_1308,entity_629,B,Donato,Trussardi,03/20/1974,M,Italia,Italia,D656
+rec_1309,entity_343,B,Ercole,Baldini,02/11/1959,M,Italia,Italia,G015
+rec_1314,entity_1838,B,Ali Ben,Dayan,04/20/1989,M,Marocco,Marocco,Z330
+rec_1316,entity_1639,B,Omar Mahmud,Gaber,02/05/1984,M,Egitto,Egitto,Z336
+rec_1317,entity_1960,B,Said,Benzakour,06/29/1988,M,Marocco,Marocco,Z330
+rec_1319,entity_1402,B,Jacklord Bolaj,Jacobs,03/26/1955,M,Nigeria,Nigeria,Z335
+rec_1322,entity_133,B,Dino,Ferruzzi,08/16/1966,M,Italia,Italia,H501
+rec_1324,entity_700,B,Saverio,Squarcione,03/10/1947,M,Italia,Italia,H501
+rec_1326,entity_540,B,Giovanni,Mangiante,02/21/1977,M,Italia,Italia,G273
+rec_1327,entity_201,B,Danilo,Samele,06/20/1969,M,Italia,Italia,H501
+rec_1328,entity_786,B,Eros,Poli,04/08/1984,M,Italia,Italia,A064
+rec_1329,entity_1574,B,Appunidage,Premachandra,07/02/1985,M,Sri Lanka,Sri Lanka,Z209
+rec_1334,entity_1437,B,Hamza,Abdou,08/04/1969,M,Marocco,Marocco,Z330
+rec_1336,entity_637,B,Matteo,Martino,05/29/1960,M,Italia,Italia,F205
+rec_1337,entity_451,B,Piero,Befcheria,07/15/1972,M,Italia,Italia,L781
+rec_1338,entity_51,B,Simona,Quadarella,02/09/1988,F,Italia,Italia,G964
+rec_1342,entity_1861,B,aine Bej,Dibra,02/18/1958,M,Albania,Albania,Z100
+rec_1344,entity_1120,B,Roland,Ramoser,07/19/1985,M,Italia,Italia,F839
+rec_1345,entity_524,B,Giovanni,Grisoni,01/10/1965,M,Italia,Italia,D969
+rec_1347,entity_197,B,Stefano,Baudino,03/12/1986,M,Italia,Italia,D969
+rec_1348,entity_1975,B,Mohamed,Al-Saadaoui,12/29/1997,M,Tunisia,Tunisia,Z352
+rec_1351,entity_1107,B,Peiro,D'Inzeo,12/09/2001,M,Italia,Italia,E281
+rec_1352,entity_286,B,Pasquale,Panzarino,07/31/1991,M,Italia,Italia,L424
+rec_1353,entity_1869,B,Teslim,Fatusi,07/11/1990,M,Nigeria,Nigeria,Z335
+rec_1355,entity_620,B,Ren,Cattarinussi,09/19/1970,M,Italia,Italia,H612
+rec_1358,entity_1573,B,Imad,Ahelluc,11/04/1992,M,Marocco,Marocco,Z330
+rec_1359,entity_241,B,Dante,Trentin,02/19/2001,M,Italia,Italia,H501
+rec_1360,entity_1916,B,Abdel Krim,El-Hadrioui,05/29/1991,M,Marocco,Marocco,Z330
+rec_1368,entity_84,B,Stefnao,Pescosolido,10/25/1968,M,Italia,Italia,L746
+rec_1372,entity_237,B,Lamberto,Togliatti,09/04/1966,M,Italia,Italia,C514
+rec_1373,entity_1161,B,Adriano,Darioli,10/17/1963,M,Italia,Italia,A475
+rec_1377,entity_1627,B,Mohamed,Soussi,04/24/1991,M,Tunisia,Tunisia,Z352
+rec_1378,entity_140,B,Lando,Cesarotti,05/11/1979,M,Italia,Italia,F246
+rec_1379,entity_1208,B,Girolamo,Giovinazzo,05/03/1972,M,Italia,Italia,C983
+rec_1383,entity_336,B,Matteo,Baldacci,05/26/1992,M,Italia,Italia,F839
+rec_1387,entity_160,B,Augustb,Terragni,10/03/1977,M,Italia,Italia,F061
+rec_1393,entity_1451,B,Laszlo,Hodos,04/25/1978,M,Romania,Romania,Z129
+rec_1394,entity_1444,B,Orgest,Hoxha,06/26/1967,M,Albania,Albania,Z100
+rec_1395,entity_965,B,Maccanelli,Ugo,11/01/1965,M,Italia,Italia,B936
+rec_1396,entity_78,B,Andrea,Coda,11/23/1992,M,Italia,Italia,F924
+rec_1399,entity_1161,B,Adriano,Darioli,10/17/1963,M,Italia,Italia,A475
+rec_1401,entity_815,B,Calogero,Malaparte,11/19/1962,M,Italia,Italia,M208
+rec_1403,entity_1346,B,Oksana,Illiushkina,05/22/1984,F,Ucraina,Ucraina,Z138
+rec_1405,entity_740,B,Guido,Mazzinghi,03/05/1964,M,Italia,Italia,A024
+rec_1407,entity_113,B,Franco,Orgera,12/04/1979,M,Italia,Italia,C852
+rec_1411,entity_382,B,Marco,Galiazzo,05/03/1967,M,Italia,Italia,F537
+rec_1412,entity_1523,B,Juma,Mnyampanda,12/30/1975,M,Repubblica Tanzania,Repubblica Tanzania,Z357
+rec_1415,entity_1270,B,Alfredo,Rota,11/05/1990,M,Italia,Italia,H892
+rec_1422,entity_301,B,Roberto,Mottola,04/13/1974,M,Italia,Italia,H501
+rec_1427,entity_375,B,Fabio,Carta,02/01/1962,M,Italia,Italia,L378
+rec_1429,entity_444,B,Ubaldo,Scandone,03/16/1975,M,Italia,Italia,A944
+rec_1433,entity_1384,B,Yevhen Oleksandrovych,Yakovlev,01/25/1982,M,Ucraina,Ucraina,Z138
+rec_1435,entity_607,B,Nino,Bossi,01/18/1986,M,Italia,Italia,F205
+rec_1436,entity_1528,B,Chidi,Nwanu,05/31/1974,M,Nigeria,Nigeria,Z335
+rec_1438,entity_1788,B,Banjuku,Jawjeh,09/27/1991,M,Gambia,Gambia,Z317
+rec_1444,entity_1301,B,Fausto,Ferragamo,03/16/1978,M,Italia,Italia,A952
+rec_1448,entity_1857,B,Rogelio,Martinez,11/04/1990,M,Repubblica Dominicana,Repubblica Dominicana,Z505
+rec_1449,entity_1715,B,Szymon,Ziolkowski,10/12/1979,M,Polonia,Polonia,Z127
+rec_1451,entity_295,B,Tito,Collevati,02/11/1979,M,Italia,Italia,G283
+rec_1452,entity_1269,B,Giuseppe,Mascheroni,11/08/1975,M,Italia,Italia,G337
+rec_1454,entity_1063,B,Filippo,Soffici,06/27/1985,M,Italia,Italia,H294
+rec_1458,entity_1328,B,Alderano,Morucci,08/10/1990,M,Italia,Italia,M403
+rec_1459,entity_545,B,Francesco,Casolari,06/23/1987,M,Italia,Italia,C134
+rec_1460,entity_182,B,Pierangelo,Bincoletto,11/01/1967,M,Italia,Italia,E791
+rec_1465,entity_592,B,Micbele,Mimun,04/19/1978,M,Italia,Italia,F839
+rec_1466,entity_1292,B,Ugo,Parini,03/08/1977,M,Italia,Italia,E885
+rec_1472,entity_23,B,Ilaria,Bianchi,04/17/1982,F,Italia,Italia,A132
+rec_1475,entity_1394,B,Sam,Azoulay,06/26/1987,M,Marocco,Marocco,Z330
+rec_1486,entity_1203,B,Marco,Tarchetti,04/28/1986,M,Italia,Italia,I820
+rec_1488,entity_1388,B,El-Tayeb El-Hadj Ben,Khrlfallah,10/04/1987,M,Algeria,Algeria,Z301
+rec_1491,entity_1778,B,Brahim Ben,Bouilla,11/20/1988,M,Marocco,Marocco,Z330
+rec_1492,entity_1630,B,Ibrahim,Shudzandin,04/11/1983,M,Afghanistan,Afghanistan,Z200
+rec_1493,entity_984,B,Stefano,Sommariva,08/13/1995,M,Italia,Italia,F229
+rec_1497,entity_118,B,Ansaldo,Cignaroli,06/07/1977,M,Italia,Italia,G273
+rec_1499,entity_1484,B,Saturday Keigo,Erimuya,09/24/1968,M,Nigeria,Nigeria,Z335
+rec_1507,entity_347,B,Sandro,Resegotti,10/10/1987,M,Italia,Italia,E715
+rec_1508,entity_1592,B,Alberto Sebastian,Torres de la Mota,02/15/1980,M,Repubblica Dominicana,Repubblica Dominicana,Z505
+rec_1510,entity_1830,B,Suleiman,Ladipo,05/01/1991,M,Nigeria,Nigeria,Z335
+rec_1512,entity_821,B,Oreste,Comboni,04/18/1990,M,Italia,Italia,E885
+rec_1517,entity_1014,B,Massimiliano,Donati,02/26/1982,M,Italia,Italia,L483
+rec_1520,entity_1201,B,Mario,Moretti,10/27/1967,M,Italia,Italia,C469
+rec_1522,entity_1740,B,Abdelhamid,Kaoutari,09/25/1978,M,Marocco,Marocco,Z330
+rec_1525,entity_18,B,Martina,Bremini,07/31/1988,F,Italia,Italia,B648
+rec_1530,entity_426,B,William Enrique,Lucena,05/23/1960,M,Italia,Italia,F132
+rec_1533,entity_162,B,Nifo,Morlacchi,03/05/1973,M,Italia,Italia,C990
+rec_1534,entity_1865,B,Hafiz,Ismeti,02/06/1971,M,Albania,Albania,Z100
+rec_1535,entity_1499,B,Marouane,Al-Fehri,04/01/1976,M,Tunisia,Tunisia,Z352
+rec_1537,entity_1136,B,Mirko,Fahtozzi,03/04/1969,M,Italia,Italia,A028
+rec_1538,entity_591,B,Donatello,Barsanti,01/19/1984,M,Spagna,Italia,Z131
+rec_1552,entity_673,B,Vincenzo,Mangiacapre,06/20/1991,M,Italia,Italia,D488
+rec_1553,entity_587,B,Giampaolo,Manolesso,08/13/1982,M,Italia,Italia,H501
+rec_1554,entity_1878,B,Mihajlo,Miti,06/19/1989,M,Serbia,Serbia,Z158
+rec_1555,entity_350,B,Giancarlo,Scaramucci,10/02/1998,M,Italia,Italia,F061
+rec_1557,entity_1141,B,Mari,Bianchini,05/30/1965,M,Italia,Italia,D150
+rec_1558,entity_329,B,Edoardo,Bianchi,08/25/1957,M,Italia,Italia,A182
+rec_1559,entity_1102,B,Gianluigi,Paganini,01/09/1994,M,Italia,Italia,A390
+rec_1561,entity_1744,B,Yevgeny Vladimirovich,Kuznetsov,09/02/1986,M,Russia,Russia,Z154
+rec_1564,entity_234,B,Alberico,Vattimo,11/14/1993,M,Italia,Italia,H501
+rec_1565,entity_672,B,Faibo,Mangilli,06/10/1982,M,Italia,Italia,A734
+rec_1567,entity_845,B,Paolo,Luschi,04/10/1950,M,Italia,Italia,C415
+rec_1585,entity_245,B,Silvestro,Bignardi,11/22/1964,M,Italia,Italia,E202
+rec_1587,entity_1747,B,Wladysaw,Szuszkiewicz,08/07/1992,M,Polonia,Polonia,Z127
+rec_1588,entity_1836,B,Mahmoud,Mahgoub,01/30/1974,M,Egitto,Egitto,Z336
+rec_1590,entity_926,B,Francesco,Cavnana,12/27/1965,M,Italia,Italia,H223
+rec_1593,entity_405,B,Paolo,Pucci,08/11/1992,M,Italia,Italia,A944
+rec_1596,entity_794,B,Pier Giorgio,Cazzola,01/06/1954,M,Italia,Italia,A475
+rec_1599,entity_1252,B,Stefano Luigi,Allocchio,12/22/1966,M,Italia,Italia,A145
+rec_1602,entity_1153,B,Gianluca,Pagliuca,09/05/1978,M,Brasile,Italia,Z602
+rec_1611,entity_1638,B,Nduka,Awazie,09/03/1994,M,Nigeria,Nigeria,Z335
+rec_1616,entity_321,B,Clemente,Scaduto,10/24/1967,M,Italia,Italia,M403
+rec_1617,entity_1246,B,Santino,Pellegrino,05/30/1972,M,Italia,Italia,I700
+rec_1619,entity_645,B,Nicol,Delli Santi,08/13/2004,M,Italia,Italia,D810
+rec_1620,entity_220,B,Lucio,Manizn,07/05/1979,M,Italia,Italia,D403
+rec_1621,entity_1932,B,Amar,Benikhlef,03/11/1996,M,Algeria,Algeria,Z301
+rec_1629,entity_272,B,Lodovico,Nava,09/29/1997,M,Australia,Italia,Z700
+rec_1630,entity_1601,B,Papa Malick,Diop,12/04/1990,M,Senegal,Senegal,Z343
+rec_1632,entity_1117,B,Luca,Trincavelli,03/08/1983,M,Italia,Italia,L844
+rec_1633,entity_1431,B,Claudiu Eugen,Ionescu,03/03/1981,M,Romania,Romania,Z129
+rec_1635,entity_1600,B,Banush,Hamdiu,11/26/1997,M,Albania,Albania,Z100
+rec_1636,entity_521,B,Geronimo,Gozzi,06/27/1975,M,Italia,Italia,E507
+rec_1640,entity_704,B,Alfredo,Rizzo,09/02/1984,M,Italia,Italia,E329
+rec_1645,entity_224,B,Giorgio,Pennacchieyti,12/03/1969,M,Italia,Italia,D773
+rec_1647,entity_969,B,Mario,Cavalla,01/22/1967,M,Italia,Italia,H294
+rec_1648,entity_1193,B,Damiano,Lassandro,11/15/1991,M,Italia,Italia,C933
+rec_1654,entity_567,B,Giovanni,Bongiorni,12/25/1953,M,Italia,Italia,B160
+rec_1658,entity_842,B,Marco Aurelio,Fontnaa,07/08/1976,M,Italia,Italia,G888
+rec_1662,entity_1890,B,Naoufel,Rabah,08/12/2003,M,Tunisia,Tunisia,Z352
+rec_1669,entity_1842,B,Ionu,Pung,04/18/1997,M,Romania,Romania,Z129
+rec_1674,entity_1637,B,Abdullah,Tazi,04/25/1977,M,Marocco,Marocco,Z330
+rec_1675,entity_1009,B,Vittorio Stellin,Castellani,09/30/1995,M,Italia,Italia,F356
+rec_1680,entity_959,B,Angelo,Marciani,01/27/1982,M,Italia,Italia,E063
+rec_1681,entity_1889,B,Alexandru,Hluc,07/06/1992,M,Romania,Romania,Z129
+rec_1684,entity_51,B,Simona,Quadarella,02/09/1988,F,Italia,Italia,G964
+rec_1685,entity_827,B,Anthony,Acerbi,02/19/1996,M,Italia,Italia,B227
+rec_1686,entity_347,B,Sandro,Resegotti,10/10/1987,M,Italia,Italia,E715
+rec_1688,entity_1025,B,Marco,Fichera,02/23/1976,M,Italia,Italia,D636
+rec_1693,entity_439,B,Luca Andrea,Sacchi,08/01/1977,M,Italia,Italia,L331
+rec_1706,entity_1214,B,Antonio,Roth,02/10/1976,M,Italia,Italia,F979
+rec_1707,entity_277,B,Felice,Fanetti,06/05/1981,M,Italia,Italia,L219
+rec_1708,entity_1255,B,Jason Gerardo,Cirone,06/26/1969,M,Italia,Italia,H222
+rec_1715,entity_998,B,Damiano,Maderno,03/19/1971,M,Italia,Italia,B898
+rec_1716,entity_1945,B,Jagbir,Singh,02/10/1990,M,India,India,Z222
+rec_1721,entity_1848,B,Kosala Premaraja,Sahabandu,05/15/2001,M,Sri Lanka,Sri Lanka,Z209
+rec_1723,entity_772,B,Matteo,Manasserjo,01/09/1990,M,Italia,Italia,I452
+rec_1724,entity_152,B,Giordano,De Giorgi,06/04/1989,M,Italia,Italia,M088
+rec_1726,entity_870,B,Romeo,Crisafulli,10/12/1961,M,Italia,Italia,F839
+rec_1727,entity_1541,B,Sulayman,Drammeh,11/19/1981,M,Gambia,Gambia,Z317
+rec_1731,entity_1029,B,Ermanno,Botsiere,05/12/1968,M,Italia,Italia,B716
+rec_1732,entity_563,B,Otello,Ternelli,02/22/1961,M,Italia,Italia,F952
+rec_1741,entity_108,B,Gilberto,Antelami,02/05/1963,M,Italia,Italia,B202
+rec_1746,entity_1295,B,Manuel,Zarlino,02/15/1953,M,Italia,Italia,D325
+rec_1748,entity_1799,B,El-Moustafa,Haddad,05/23/2001,M,Marocco,Marocco,Z330
+rec_1750,entity_978,B,Amedeo,Bruscantini,12/27/1989,M,Italia,Italia,F839
+rec_1751,entity_1120,B,Roland,Ramoser,07/19/1985,M,Italia,Italia,F839
+rec_1758,entity_1333,B,Rodolfo,Vasiari,01/18/1989,M,Italia,Italia,L117
+rec_1760,entity_1840,B,Amar,Gariboci,12/09/1989,M,Serbia,Serbia,Z158
+rec_1763,entity_353,B,Fedwle,Nicolucci,08/08/1983,M,Italia,Italia,G273
+rec_1773,entity_261,B,Emilio,Giasetti,07/21/1982,M,Italia,Italia,A703
+rec_1780,entity_1320,B,Carmine,Tucci,04/17/1978,M,Italia,Italia,A294
+rec_1782,entity_1288,B,Vincenzo,Finocchiafo,05/05/1982,M,Italia,Italia,I676
+rec_1783,entity_280,B,Nino,Carullo,03/29/1980,M,Italia,Italia,L378
+rec_1787,entity_1057,B,Romeo,Baroffio,05/23/1981,M,Germania,Italia,Z112
+rec_1790,entity_283,B,Andrea,Tebaldi,04/17/1992,M,Italia,Italia,H501
+rec_1791,entity_1133,B,Marco,Giovannetti,10/09/1974,M,Italia,Italia,H501
+rec_1793,entity_545,B,Francesco,Casolari,06/23/1987,M,Italia,Italia,C134
+rec_1794,entity_506,B,Raffaele,Antonacci,02/07/1963,M,Italia,Italia,D969
+rec_1795,entity_1931,B,Achraf,Mezyan,05/21/1993,M,Marocco,Marocco,Z330
+rec_1797,entity_26,B,Monika,Auer,11/23/1985,F,Italia,Italia,H945
+rec_1804,entity_1663,B,Abderrazak,Nijam,11/24/1991,M,Marocco,Marocco,Z330
+rec_1805,entity_386,B,Baldi,Baldo,12/05/1962,M,Italia,Italia,G015
+rec_1806,entity_468,B,Pietro,Sessa,12/08/1986,M,Italia,Italia,A225
+rec_1811,entity_1262,B,Silvio,Grossi,08/15/1994,M,Italia,Italia,A027
+rec_1816,entity_1236,B,Dante,Ostinelli,07/17/1971,M,Italia,Italia,E156
+rec_1830,entity_1429,B,Anderi,Igorov,03/13/1962,M,Romania,Romania,Z129
+rec_1832,entity_81,B,Adelmo,Badoer,06/09/1987,M,Italia,Italia,H703
+rec_1833,entity_726,B,Filippo,Leblanc,07/31/2000,M,Italia,Italia,L219
+rec_1834,entity_1654,B,Selahydin,Shkoza,08/06/1976,M,Albania,Albania,Z100
+rec_1835,entity_983,B,Fabio,Steib,09/24/1975,M,Italia,Italia,A883
+rec_1838,entity_340,B,Antonio,Baldacci,08/16/1966,M,Italia,Italia,D284
+rec_1840,entity_906,B,Olivier Edouard,Collarini,10/11/1988,M,Italia,Italia,A638
+rec_1842,entity_1034,B,Daniwle,Scarpa,04/24/1969,M,Italia,Italia,F839
+rec_1843,entity_615,B,Edoardo,Leonetti,11/01/1976,M,Italia,Italia,E738
+rec_1846,entity_244,B,Beppe,Beffa,01/15/1973,M,Italia,Italia,I483
+rec_1847,entity_1915,B,Adel,Khechini,07/25/1995,M,Tunisia,Tunisia,Z352
+rec_1849,entity_102,B,Giuseppe,Casari,07/29/1993,M,Italia,Italia,G393
+rec_1850,entity_1307,B,Secondo,De Marci,11/14/2004,M,Italia,Italia,C107
+rec_1857,entity_576,B,Quintino,Bellini,01/31/1955,M,Italia,Italia,E625
+rec_1858,entity_643,B,Roberto,Gandolfi,12/18/1997,M,Italia,Italia,B729
+rec_1859,entity_1797,B,Grua,Novac,12/26/1979,M,Romania,Romania,Z129
+rec_1863,entity_1676,B,Youns,Sekkat,02/03/1990,M,Marocco,Marocco,Z330
+rec_1864,entity_38,B,Katia,Piccoini,01/03/1988,F,Italia,Italia,A161
+rec_1868,entity_572,B,Giuseppe,De Vita,05/08/1985,M,Italia,Italia,F205
+rec_1869,entity_1816,B,Maqsood,Ahmad,04/30/1961,M,Pakistan,Pakistan,Z236
+rec_1871,entity_1686,B,Kazimierz Jan,Trampisz,05/18/2000,M,Polonia,Polonia,Z127
+rec_1872,entity_1736,B,Hassan,Oucheikh,10/12/1953,M,Marocco,Marocco,Z330
+rec_1874,entity_1843,B,Nduka,Odizor,02/03/1985,M,Nigeria,Nigeria,Z335
+rec_1881,entity_1599,B,Mihamed,Khaldi,09/07/1983,M,Algeria,Algeria,Z301
+rec_1883,entity_738,B,Raffaello,Barsanti,02/26/1976,M,Italia,Italia,G999
+rec_1887,entity_1305,B,Eugenio,Della Casa,09/20/1948,M,Francia,Italia,Z110
+rec_1889,entity_66,B,Manuela,Angeli,09/06/1976,F,Italia,Italia,F052
+rec_1892,entity_1466,B,Haojie,Lu,05/31/1982,M,Cina,Cina,Z210
+rec_1893,entity_677,B,Giorgio,Anglesio,08/13/1979,M,Italia,Italia,D872
+rec_1896,entity_1270,B,Alfredo,Rota,11/05/1990,M,Italia,Italia,H892
+rec_1901,entity_1993,B,Ahmed,Al-Barki,07/05/1982,M,Marocco,Marocco,Z330
+rec_1904,entity_212,B,Camillo,Gargsno,07/27/1986,M,Italia,Italia,L113
+rec_1908,entity_1727,B,Gbenga,Okunowo,11/06/1984,M,Nigeria,Nigeria,Z335
+rec_1911,entity_1610,B,Uro,Ukovi,05/08/1978,M,Montenegro,Montenegro,Z159
+rec_1912,entity_623,B,Mario,Paonessa,07/21/1974,M,Italia,Italia,A662
+rec_1913,entity_781,B,Lucio Mastrogiovanni,Tasca,01/01/1981,M,Italia,Italia,H243
+rec_1914,entity_248,B,Riccardo Giorgio,Materizzi,06/02/1989,M,Italia,Italia,H501
+rec_1917,entity_1807,B,Mihai,Grigorovici,07/06/1988,M,Romania,Romania,Z129
+rec_1918,entity_1177,B,Mario,Doria,03/18/1973,M,Italia,Italia,H243
+rec_1919,entity_1543,B,Andrei,Ianko,05/17/1972,M,Romania,Romania,Z129
+rec_1920,entity_953,B,Biagio,Marino,03/25/1955,M,Argentina,Italia,Z600
+rec_1924,entity_1699,B,Omar,Kadiri,12/25/1980,M,Marocco,Marocco,Z330
+rec_1926,entity_458,B,Gioele,Lucciano,03/12/1987,M,Italia,Italia,F784
+rec_1927,entity_417,B,Aldo,Buttiji,12/19/2001,M,Italia,Italia,D704
+rec_1928,entity_1558,B,Etienne,Kinteh,12/18/1984,M,Gambia,Gambia,Z317
+rec_1931,entity_1157,B,Edmund,Lanziner,04/05/1971,M,Italia,Italia,F035
+rec_1934,entity_509,B,Lucio,Goldstein,04/18/1970,M,Italia,Italia,D704
+rec_1941,entity_1873,B,Fares,Al-Ferjani,04/15/1995,M,Tunisia,Tunisia,Z352
+rec_1951,entity_420,B,Achille,Picccini,07/06/1984,M,Italia,Italia,E054
+rec_1953,entity_418,B,Amadeo,Guicciardini,03/14/1967,M,Italia,Italia,H199
+rec_1954,entity_361,B,Armando,Platini,09/02/1995,M,Italia,Italia,G762
+rec_1955,entity_1934,B,Monday,Eguabor,03/03/1981,M,Nigeria,Nigeria,Z335
+rec_1958,entity_1766,B,Youjs,Es-Salhi,02/14/1985,M,Marocco,Marocco,Z330
+rec_1961,entity_1940,B,Walerianm,Maryaski,04/28/1981,M,Polonia,Polonia,Z127
+rec_1962,entity_1617,B,Khalid,Tigazouine,10/24/1997,M,Marocco,Marocco,Z330
+rec_1964,entity_1511,B,Iosif,Culineac,07/06/1975,M,Romania,Romania,Z129
+rec_1965,entity_846,B,Antonio,Rucco,04/19/1954,M,Italia,Italia,A192
+rec_1966,entity_1952,B,Ronaldo,Chavez,02/22/1992,M,Filippine,Filippine,Z216
+rec_1970,entity_1011,B,Giampiero,Sauli,11/04/1983,M,Italia,Italia,H264
+rec_1971,entity_1298,B,nnio,Porcellato,12/22/1969,M,Italia,Italia,I754
+rec_1977,entity_1189,B,Galeazzo Dondi,Dell'Ordogio,07/16/1986,M,Italia,Italia,E518
+rec_1978,entity_554,B,Roberto,Galia,02/19/1988,M,Italia,Italia,L339
+rec_1991,entity_680,B,Adelmo,Bulgarelli,04/15/1955,M,Italia,Italia,I056
+rec_1994,entity_1775,B,Ejike Christopher,Ugboaja,05/03/1973,M,Nigeria,Nigeria,Z335
+rec_1997,entity_278,B,Adelmo,Vendit5i,07/17/1974,M,Italia,Italia,L378
+rec_2018,entity_1870,B,Ndre,Mjeda,05/12/1981,M,Albania,Albania,Z100
+rec_2020,entity_1854,B,Marin,Musta,04/27/1991,M,Romania,Romania,Z129
+rec_2026,entity_965,B,Maccanelli,Ugo,11/01/1965,M,Italia,Italia,B936
+rec_2030,entity_1732,B,Hicham,Al-Siguni,10/26/1984,M,Marocco,Marocco,Z330
+rec_2032,entity_59,B,Daniela,Graglia,03/12/1977,F,Italia,Italia,L727
+rec_2038,entity_835,B,Dino,Meneghin,03/11/1967,M,Italia,Italia,L682
+rec_2040,entity_467,B,Andrea,Jory,07/02/1967,M,Italia,Italia,C621
+rec_2041,entity_1895,B,An5won Toritseju,Hicks,12/14/1982,M,Nigeria,Nigeria,Z335
+rec_2042,entity_1634,B,Oussama,Al-Boughanmi,04/30/1994,M,Tunisia,Tunisia,Z352
+rec_2044,entity_1260,B,Klaus,Dibiasi,05/12/1980,M,Italia,Italia,F205
+rec_2048,entity_481,B,Raffaellino,Tedesco,10/26/1963,M,Italia,Italia,F205
+rec_2049,entity_316,B,Johann,Passler,10/06/1984,M,Italia,Italia,E415
+rec_2058,entity_1037,B,Mariano,Brajcaccio,08/29/2001,M,Italia,Italia,G888
+rec_2062,entity_1607,B,Osman Hassan,Farid,07/04/1960,M,Egitto,Egitto,Z336
+rec_2063,entity_549,B,Vincenzo,Ribolotta,03/08/1977,M,Italia,Italia,H860
+rec_2074,entity_145,B,Riccardo,Moretti,05/23/1961,M,Italia,Italia,F205
+rec_2075,entity_1387,B,Gjoko,Dineski,07/22/1974,M,Macedonia,Macedonia,Z148
+rec_2076,entity_517,B,Roberto,Brunamonti,07/05/1980,M,Italia,Italia,A056
+rec_2079,entity_1708,B,Seit,Vrioni,09/13/1977,M,Italia,Albania,D912
+rec_2083,entity_1471,B,Marin,Stan,06/05/1979,M,Romania,Romania,Z129
+rec_2091,entity_1244,B,Livio,Cipolla,04/05/1966,M,Italia,Italia,G273
+rec_2095,entity_820,B,Thomas,Milain,10/24/1990,M,Italia,Italia,A323
+rec_2099,entity_1962,B,Petre,Miclu,05/21/1981,M,Romania,Romania,Z129
+rec_2103,entity_1678,B,Mohon Lal,Ghosh,06/15/1987,M,India,India,Z222
+rec_2105,entity_807,B,Raffaello Fabio,Ducceschi,02/11/1996,M,Italia,Italia,C537
+rec_2106,entity_742,B,Fabio,Bonacina,12/09/1976,M,Italia,Italia,A562
+rec_2111,entity_660,B,Sebastian,Colloreco,10/21/1979,M,Italia,Italia,A053
+rec_2114,entity_664,B,Fabio,Del Geenovese,02/02/1983,M,Italia,Italia,G686
+rec_2115,entity_942,B,Gianluca,Chiesa,05/31/1968,M,Italia,Italia,D972
+rec_2116,entity_1902,B,Abdel,Hammi,06/14/1973,M,Tunisia,Tunisia,Z352
+rec_2117,entity_1908,B,Khaled,Houcine,02/28/1989,M,Tunisia,Tunisia,Z352
+rec_2118,entity_956,B,Giancarlo,Primo,01/15/1991,M,Italia,Italia,G478
+rec_2123,entity_272,B,Lodovico,Nava,09/29/1997,M,Australia,Italia,Z700
+rec_2125,entity_1862,B,Boujemaa,Hilmann,05/13/1982,M,Marocco,Marocco,Z330
+rec_2127,entity_700,B,Saverio,Squarcione,03/10/1947,M,Italia,Italia,H501
+rec_2132,entity_433,B,Mario,Ustolin,12/10/1989,M,Italia,Italia,A944
+rec_2138,entity_1887,B,Ahmad,Ouachit,01/09/1984,M,Marocco,Marocco,Z330
+rec_2146,entity_1620,B,Iosif,Budahazi,07/16/1953,M,Romania,Romania,Z129
+rec_2147,entity_1287,B,Giacomo,Bozzano,03/06/1992,M,Italia,Italia,A841
+rec_2149,entity_108,B,Gilberto,Antelami,02/05/1963,M,Italia,Italia,B202
+rec_2163,entity_1851,B,Selim,Luniku,09/21/1977,M,Albania,Albania,Z100
+rec_2165,entity_974,B,Piero,Sibello,10/16/1970,M,Italia,Italia,F839
+rec_2170,entity_841,B,Carlo,Conte,06/17/1975,M,Italia,Italia,F797
+rec_2172,entity_1648,B,Kareem Ben,Kouar,10/19/1983,M,Marocco,Marocco,Z330
+rec_2173,entity_132,B,Carlo,Caglieris,07/06/1999,M,Italia,Italia,H501
+rec_2174,entity_1240,B,Jean,Cipolina,12/28/1955,M,Italia,Italia,L706
+rec_2184,entity_450,B,Enrici,Garzelli,01/30/1968,M,Italia,Italia,M213
+rec_2185,entity_1295,B,Manuel,Zarlino,02/15/1953,M,Italia,Italia,D325
+rec_2187,entity_231,B,Giuseppe,Di Palho,02/20/1956,M,Italia,Italia,G273
+rec_2190,entity_1852,B,Alin,Alexuc-Ciurariu,04/28/1990,M,Romania,Romania,Z129
+rec_2191,entity_43,B,Roberta,F4lotti,12/31/1977,F,Italia,Italia,H096
+rec_2193,entity_492,B,Benigno Giuseppe,Ferrera,05/15/1988,M,Italia,Italia,E202
+rec_2197,entity_423,B,Mariano,Orengo,05/25/1991,M,Italia,Italia,D045
+rec_2199,entity_926,B,Francesco,Cavnana,12/27/1965,M,Italia,Italia,H223
+rec_2200,entity_1847,B,Adnan,El-Khuja,02/24/1981,M,Libia,Libia,Z326
+rec_2206,entity_325,B,Biagio,Saggese,06/05/1997,M,Italia,Italia,D205
+rec_2208,entity_1802,B,Rzvan,Petcu,05/06/1973,M,Romania,Romania,Z129
+rec_2209,entity_1986,B,Sheriff,Jawo,03/17/1982,M,Gambia,Gambia,Z317
+rec_2212,entity_825,B,Bruxno,Roghi,11/25/1973,M,Italia,Italia,A940
+rec_2213,entity_409,B,Vincenzo,Ceci,06/01/1966,M,Italia,Italia,C707
+rec_2217,entity_1427,B,Cheick,Seynou,08/09/1978,M,Burkina Faso,Burkina Faso,Z354
+rec_2219,entity_1698,B,Mustapa,Bentaleb,02/22/1976,M,Marocco,Marocco,Z330
+rec_2220,entity_1952,B,Ronaldo,Chavez,02/22/1992,M,Filippine,Filippine,Z216
+rec_2221,entity_1023,B,Marioz,Caironi,08/21/2001,M,Italia,Italia,E514
+rec_2222,entity_1541,B,Sulayman,Drammeh,11/19/1981,M,Gambia,Gambia,Z317
+rec_2228,entity_1601,B,Papa Malick,Diop,12/04/1990,M,Senegal,Senegal,Z343
+rec_2229,entity_737,B,Gianmaria,Aloisio,07/24/1991,M,Italia,Italia,G273
+rec_2230,entity_1500,B,Arsne Kra,Konan,12/19/1999,M,Costa D'Avorio,Costa D'Avorio,Z313
+rec_2235,entity_551,B,Fabio,Gabba,10/07/1960,M,Italia,Italia,L826
+rec_2236,entity_861,B,Nicolas,Bean,12/24/1985,M,Italia,Italia,H501
+rec_2237,entity_1901,B,Ali Husni,Faisal,11/29/1990,M,Iraq,Iraq,Z225
+rec_2239,entity_605,B,Francesco,Verri,07/20/1988,M,Italia,Italia,D612
+rec_2243,entity_1266,B,Roberto,Cassio,05/10/1975,M,Italia,Italia,A401
+rec_2248,entity_1423,B,Oleksandr,Skrypnyk,08/05/1969,M,Ucraina,Ucraina,Z138
+rec_2252,entity_1032,B,Gianluigi,Venturi,06/12/1985,M,Italia,Italia,M060
+rec_2254,entity_586,B,Stefan,Zisser,11/02/1964,M,Italia,Italia,F205
+rec_2259,entity_572,B,Giuseppe,De Vita,05/08/1985,M,Italia,Italia,F205
+rec_2263,entity_582,B,Gabriele,Florio,03/14/1977,M,Italia,Italia,A944
+rec_2271,entity_923,B,Rodolfo,Bragadin,03/03/1997,M,Italia,Italia,D969
+rec_2272,entity_1063,B,Filippo,Soffici,06/27/1985,M,Italia,Italia,H294
+rec_2273,entity_434,B,Umberto,Barozzi,06/15/1998,M,Italia,Italia,B428
+rec_2274,entity_473,B,Ivan,Siffredi,06/06/1977,M,Italia,Italia,A024
+rec_2281,entity_761,B,Luigt,Campanella,02/19/1964,M,Italia,Italia,C002
+rec_2285,entity_1198,B,Carlo,Cerioni,02/25/1987,M,Italia,Italia,G712
+rec_2286,entity_277,B,Felice,Fanetti,06/05/1981,M,Italia,Italia,L219
+rec_2288,entity_278,B,Adelmo,Vendit5i,07/17/1974,M,Italia,Italia,L378
+rec_2290,entity_399,B,Giovanni,Mezzani,03/26/1977,M,Italia,Italia,G535
+rec_2291,entity_1422,B,Marouane,M'rabet,04/12/1960,M,Tunisia,Tunisia,Z352
+rec_2293,entity_1923,B,Dumitru Marian,Berbece,11/09/1993,M,Romania,Romania,Z129
+rec_2294,entity_1002,B,Marco,Venturini,09/26/1983,M,Italia,Italia,E573
+rec_2296,entity_501,B,Gerardo,Conforti,12/21/1987,M,Italia,Italia,G224
+rec_2301,entity_1624,B,Mohamed Ben,Slimane,03/31/1990,M,Tunisia,Tunisia,Z352
+rec_2303,entity_1636,B,Lahcrn,Abrami,01/21/1979,M,Marocco,Marocco,Z330
+rec_2304,entity_1133,B,Marco,Giovannetti,10/09/1974,M,Italia,Italia,H501
+rec_2309,entity_412,B,Gianfranco,Coppola,07/29/1979,M,Italia,Italia,A894
+rec_2311,entity_305,B,Massimo,Magnani,09/30/2000,M,Italia,Italia,G834
+rec_2312,entity_851,B,Syefano,Simoncelli,06/22/1978,M,Italia,Italia,H501
+rec_2318,entity_1978,B,Salvator,Cicurel,09/28/1995,M,Egitto,Egitto,Z336
+rec_2322,entity_211,B,Amedeo,Tomei,06/29/1958,M,Italia,Italia,D018
+rec_2324,entity_1824,B,Albert,Saritov,05/09/1991,M,Romania,Romania,Z129
+rec_2326,entity_1567,B,Ahmed,Bahja,01/13/1994,M,Marocco,Marocco,Z330
+rec_2327,entity_618,B,Giorgio,Morbiato,11/19/1980,M,Italia,Italia,D423
+rec_2328,entity_1822,B,Youns,El-Aynaoui,09/28/1974,M,Marocco,Marocco,Z330
+rec_2329,entity_69,B,Giulio,Rusconi,10/10/1988,M,Italia,Italia,L219
+rec_2330,entity_601,B,Adriano,Correr,09/30/1967,M,Italia,Italia,G888
+rec_2334,entity_87,B,Camillo,Mussi,07/12/1976,M,Italia,Italia,C750
+rec_2338,entity_1408,B,Musa,Bakare,10/26/2001,M,Nigeria,Nigeria,Z335
+rec_2339,entity_1711,B,Florian,Olteanu,12/19/1987,M,Romania,Romania,Z129
+rec_2341,entity_1502,B,Alexandru,Uli,04/07/1987,M,Romania,Romania,Z129
+rec_2342,entity_1429,B,Anderi,Igorov,03/13/1962,M,Romania,Romania,Z129
+rec_2344,entity_1652,B,Taqi,Buda,02/22/1980,M,Albania,Albania,Z100
+rec_2345,entity_1119,B,Mario,Riccoboni,11/12/1978,M,Italia,Italia,G843
+rec_2346,entity_585,B,Michele,Tito,12/13/1992,M,Italia,Italia,M115
+rec_2349,entity_1391,B,George Crinu,Raicu-Olteanu,12/24/1988,M,Romania,Romania,Z129
+rec_2350,entity_800,B,Lirenzo,De Silvestri,05/14/1955,M,Italia,Italia,I480
+rec_2360,entity_1226,B,Gaetano,Giolitti,06/26/1991,M,Italia,Italia,G752
+rec_2363,entity_874,B,Renato,Berninzone,03/12/1983,M,Italia,Italia,B962
+rec_2364,entity_413,B,Giacinto,Pietrangeli,02/10/1966,M,Italia,Italia,B990
+rec_2374,entity_1826,B,Mourad Sedegh,Amara,12/13/1983,M,Algeria,Algeria,Z301
+rec_2375,entity_220,B,Lucio,Manizn,07/05/1979,M,Italia,Italia,D403
+rec_2380,entity_99,B,Giacomo,Puosi,01/09/1980,M,Italia,Italia,F839
+rec_2385,entity_476,B,Rino,Salgsri,06/04/2000,M,Italia,Italia,F965
+rec_2386,entity_1340,B,Sonja,Bai,08/14/1970,F,Croazia,Croazia,Z149
+rec_2387,entity_124,B,Ugo,Tornatore,09/03/1975,M,Italia,Italia,F842
+rec_2389,entity_1738,B,Giuc,Lucian,02/23/1989,M,Romania,Romania,Z129
+rec_2395,entity_513,B,Giacinto,Maffei,01/22/1970,M,Francia,Italia,Z110
+rec_2396,entity_651,B,Pierangelo,Gravina,02/22/1960,M,Italia,Italia,H223
+rec_2397,entity_1753,B,Hennadiy Hryhorovych,Bilodid,11/10/1988,M,Ucraina,Ucraina,Z138
+rec_2403,entity_1312,B,Ilario,Passerini,07/18/1984,M,Italia,Italia,L682
+rec_2419,entity_1712,B,Mihai,Mandache,07/23/1976,M,Romania,Romania,Z129
+rec_2420,entity_1431,B,Claudiu Eugen,Ionescu,03/03/1981,M,Romania,Romania,Z129
+rec_2426,entity_1781,B,Abdel Majid Salah,Naji,07/08/1963,M,Tunisia,Tunisia,Z352
+rec_2433,entity_1765,B,Patrick,Drahi,11/25/1996,M,Marocco,Marocco,Z330
+rec_2435,entity_1128,B,Nemo,Agodi,03/12/1993,M,Italia,Italia,C351
+rec_2445,entity_908,B,Egidio,Montesano,07/23/1985,M,Italia,Italia,H501
+rec_2447,entity_1873,B,Fares,Al-Ferjani,04/15/1995,M,Tunisia,Tunisia,Z352
+rec_2448,entity_1611,B,Boris,Zlokov,07/04/1990,M,Montenegro,Montenegro,Z159
+rec_2450,entity_1922,B,El-Fassy,Abderraouf,05/04/1994,M,Marocco,Marocco,Z330
+rec_2451,entity_499,B,Enzo,Tencalla,01/10/1972,M,Italia,Italia,D514
+rec_2452,entity_1776,B,Isatou,Darnoe,03/22/1974,M,Gambia,Gambia,Z317
+rec_2453,entity_1407,B,Samuel Okon,Peter,02/25/1979,M,Nigeria,Nigeria,Z335
+rec_2456,entity_1493,B,Julien,Ouedraogo,06/06/1977,M,Burkina Faso,Burkina Faso,Z354
+rec_2457,entity_1090,B,Gioacchino,Castelli,09/18/1947,M,Italia,Italia,F930
+rec_2458,entity_1795,B,Renato Tupan,Ruy,03/01/1994,M,Brasile,Brasile,Z602
+rec_2459,entity_481,B,Raffaellino,Tedesco,10/26/1963,M,Italia,Italia,F205
+rec_2461,entity_202,B,Sergio,Mannironi,11/30/1954,M,Italia,Italia,G478
+rec_2463,entity_75,B,Gianmarco,Rizzoli,09/16/1982,M,Italia,Italia,I684
+rec_2468,entity_1456,B,Vujadin,Boskov,10/08/1978,M,Serbia,Serbia,Z158
+rec_2470,entity_407,B,Emilio,Cavanna,05/01/1971,M,Italia,Italia,G273
+rec_2472,entity_578,B,Antonio,Lenza,10/18/1982,M,Italia,Italia,E532
+rec_2477,entity_1044,B,Manlio,Rosa,05/05/1978,M,Italia,Italia,F119
+rec_2479,entity_226,B,Nilo,Zandanel,08/16/1990,M,Italia,Italia,A462
+rec_2480,entity_613,B,Sergio,Milanesi,02/08/1975,M,Italia,Italia,H501
+rec_2483,entity_756,B,Giuseppe,Chiantia,09/17/1981,M,Italia,Italia,L219
+rec_2484,entity_190,B,Saverio,Ragno,11/21/1961,M,Italia,Italia,D643
+rec_2487,entity_173,B,Raffaellino,Vezzali,01/08/1960,M,Italia,Italia,B809
+rec_2488,entity_642,B,Matteo,Abesi,01/18/1967,M,Italia,Italia,H792
+rec_2489,entity_187,B,Gianfranco,Pisacane,03/08/1993,M,Italia,Italia,F585
+rec_2498,entity_1702,B,Moustafa,Chellouf,07/11/1983,M,Tunisia,Tunisia,Z352
+rec_2500,entity_1895,B,An5won Toritseju,Hicks,12/14/1982,M,Nigeria,Nigeria,Z335
+rec_2501,entity_1481,B,Iliaz,Vrioni,05/06/1991,M,Albania,Albania,Z100
+rec_2502,entity_578,B,Antonio,Lenza,10/18/1982,M,Italia,Italia,E532
+rec_2505,entity_978,B,Amedeo,Bruscantini,12/27/1989,M,Italia,Italia,F839
+rec_2506,entity_1762,B,Julius Obiefuma,Chigbolu,06/18/1975,M,Nigeria,Nigeria,Z335
+rec_2508,entity_1813,B,Taouane,Abdellah,02/22/1988,M,Marocco,Marocco,Z330
+rec_2510,entity_1088,B,Severino,Compagnoni,09/04/1984,M,Italia,Italia,L719
+rec_2513,entity_1315,B,Michele,Marchesini,01/30/1963,M,Italia,Italia,G337
+rec_2515,entity_1667,B,Djibril,Saol,04/07/1987,M,Senegal,Senegal,Z343
+rec_2516,entity_1395,B,Grigol,Mamrik8shvili,08/25/1964,M,Georgia,Georgia,Z254
+rec_2517,entity_1398,B,Costel,Grasu,12/19/1988,M,Romania,Romania,Z129
+rec_2523,entity_98,B,Danilo,Paganini,05/01/1987,M,Italia,Italia,C743
+rec_2524,entity_1508,B,Salah,Al-Mejri,07/28/2001,M,Tunisia,Tunisia,Z352
+rec_2528,entity_136,B,Adamo,Bajardi,01/23/1955,M,Italia,Italia,D612
+rec_2531,entity_853,B,Raffaele,Aulenti,02/28/1974,M,Italia,Italia,G273
+rec_2534,entity_1249,B,Guglielmo,Vecoli,05/02/1963,M,Italia,Italia,E625
+rec_2536,entity_741,B,Sergio,Bertoni,10/21/1984,M,Italia,Italia,B872
+rec_2539,entity_682,B,Giorgio,Storladi,02/01/1963,M,Italia,Italia,L219
+rec_2543,entity_1495,B,Alassane,Bah,11/08/1992,M,Guinea,Guinea,Z319
+rec_2546,entity_1146,B,Giacomo,Serra,09/25/1993,M,Italia,Italia,E379
+rec_2549,entity_708,B,Prisco,Zoppetti,10/06/1970,M,Italia,Italia,G337
+rec_2552,entity_714,B,Sergio,Carvpreso,10/06/1968,M,Italia,Italia,C933
+rec_2555,entity_265,B,Angelo,Vassallo,02/27/1962,M,Italia,Italia,L736
+rec_2564,entity_120,B,Gianfranco,Sardagna,06/04/1999,M,Italia,Italia,G479
+rec_2568,entity_393,B,Federico,Fracci,01/28/1975,M,Italia,Italia,D325
+rec_2577,entity_1977,B,Koiyan Abraahm,Morlu,04/06/1983,M,Liberia,Liberia,Z325
+rec_2578,entity_447,B,Tullio,Piazzi,10/02/1991,M,Italia,Italia,G686
+rec_2580,entity_379,B,Marino,Facchin,03/27/1986,M,Italia,Italia,A123
+rec_2584,entity_503,B,Damiano,Caruso,05/21/1963,M,Italia,Italia,F784
+rec_2587,entity_246,B,Adriano,Facchini,05/07/1970,M,Italia,Italia,F416
+rec_2590,entity_745,B,Luigi,Adami,03/12/1979,M,Italia,Italia,F078
+rec_2592,entity_1056,B,Giustino,Salandra,04/10/1977,M,Italia,Italia,E435
+rec_2593,entity_1646,B,Iosif,Deutsch,12/20/1996,M,Romania,Romania,Z129
+rec_2594,entity_93,B,Alberto,Angelini,10/12/1993,M,Italia,Italia,H501
+rec_2600,entity_909,B,Enrico,Dell'Amore,08/12/1984,M,Italia,Italia,F352
+rec_2601,entity_70,B,Giordano,Turrini,11/18/1961,M,Italia,Italia,D150
+rec_2607,entity_1074,B,Vincenzo,Bo9to,05/08/1970,M,Italia,Italia,A662
+rec_2610,entity_255,B,Mqrtino,Orsini,03/14/1978,M,Italia,Italia,H612
+rec_2614,entity_25,B,Margherita,Zalaffi,04/02/1983,F,Italia,Italia,G482
+rec_2617,entity_532,B,Umberto,Silvestri,06/29/1960,M,Italia,Italia,B885
+rec_2618,entity_625,B,Francesco,Dell'Uomo,07/11/1984,M,Italia,Italia,H501
+rec_2622,entity_962,B,Cosimo Teodoro,Campioto,05/13/1969,M,Italia,Italia,C990
+rec_2623,entity_1537,B,Mevlud,Lobzhanidze,04/12/1986,M,Georgia,Georgia,Z254
+rec_2628,entity_354,B,Michle,Toma,10/01/1973,M,Italia,Italia,A883
+rec_2631,entity_464,B,Riccardo,Luca,10/09/1983,M,Italia,Italia,H223
+rec_2633,entity_966,B,Andrea,Valentini,06/25/1982,M,Italia,Italia,E514
+rec_2634,entity_544,B,Franco Giorgio,Cagnotto,06/11/1963,M,Italia,Italia,C129
+rec_2637,entity_386,B,Baldi,Baldo,12/05/1962,M,Italia,Italia,G015
+rec_2638,entity_1471,B,Marin,Stan,06/05/1979,M,Romania,Romania,Z129
+rec_2644,entity_934,B,Luca,Agamennoni,02/18/1987,M,Italia,Italia,M309
+rec_2645,entity_1924,B,Ivan,Remarenco,05/28/1997,M,Moldova,Moldova,Z140
+rec_2646,entity_1841,B,Jorge Luis Felix,Alcalde Millos,12/22/1965,M,Peru,Peru,Z611
+rec_2650,entity_1489,B,Mouhssin,Al-Chehibi,09/09/1978,M,Italia,Marocco,F839
+rec_2653,entity_1606,B,Zeeshan,Ashraf,04/24/2000,M,Pakistan,Pakistan,Z236
+rec_2659,entity_854,B,Orlandmo,Savarin,07/17/1980,M,Italia,Italia,G924
+rec_2663,entity_1735,B,Ousmaon Omar,Colley,12/07/1992,M,Gambia,Gambia,Z317
+rec_2667,entity_1586,B,Mostafa,Al-Ismaili,01/26/1993,M,Marocco,Marocco,Z330
+rec_2670,entity_1492,B,Gheorghe,Constantinide,06/30/1974,M,Romania,Romania,Z129
+rec_2673,entity_7,B,Borio,Alessandra,07/18/1988,F,Italia,Italia,D612
+rec_2676,entity_919,B,Valerio,Vermiglio,06/24/1954,M,Italia,Italia,F205
+rec_2678,entity_1317,B,Giuseppe,Zucchinetti,10/24/1990,M,Italia,Italia,B180
+rec_2683,entity_896,B,Giulio,Pisano,02/26/1995,M,Italia,Italia,H199
+rec_2684,entity_206,B,Silvano,Asprucci,07/26/1987,M,Italia,Italia,F100
+rec_2688,entity_745,B,Luigi,Adami,03/12/1979,M,Italia,Italia,F078
+rec_2690,entity_1373,B,Essam Ismail,Al-Sayed,04/07/1947,M,Egitto,Egitto,Z336
+rec_2693,entity_993,B,Ennio,Preatoni,08/31/1991,M,Italia,Italia,L826
+rec_2697,entity_755,B,Ernesto,Bonacina,12/15/1959,M,Italia,Italia,F205
+rec_2698,entity_730,B,Aurelio,Fallaci,06/15/1972,M,Italia,Italia,B639
+rec_2699,entity_1819,B,Christian,Ohiri,12/14/1978,M,Nigeria,Nigeria,Z335
+rec_2714,entity_911,B,Rolando,Cretis,11/19/1950,M,Italia,Italia,G337
+rec_2720,entity_1748,B,Libohova,Eqrem,12/13/1994,M,Albania,Albania,Z100
+rec_2724,entity_1321,B,Flavio,Bellucci,06/07/1967,M,Italia,Italia,C351
+rec_2728,entity_1641,B,Chika Yagazie,Chukwumerije,09/21/1986,M,Nigeria,Nigeria,Z335
+rec_2734,entity_527,B,Oreste,Arp,06/19/1991,M,Italia,Italia,A182
+rec_2737,entity_571,B,Giorgio,Rubiba,09/28/1983,M,Italia,Italia,F839
+rec_2738,entity_1975,B,Mohamed,Al-Saadaoui,12/29/1997,M,Tunisia,Tunisia,Z352
+rec_2742,entity_1020,B,Dario,Metella,05/28/1958,M,Italia,Italia,C574
+rec_2745,entity_1417,B,Zhorzhe,Tersheiro,09/15/1990,M,Georgia,Georgia,Z254
+rec_2747,entity_421,B,Aristide,Pozzali,06/20/1965,M,Italia,Italia,B990
+rec_2751,entity_404,B,Claudio,Libotte,01/28/1964,M,Italia,Italia,A662
+rec_2754,entity_659,B,Piero,Giovine,12/26/1989,M,Italia,Italia,A522
+rec_2757,entity_652,B,Ettore,Cremonesi,03/26/1968,M,Italia,Italia,F797
+rec_2760,entity_538,B,Vincenzo,Maenza,07/26/1957,M,Italia,Italia,I709
+rec_2761,entity_1139,B,Agostini,Agostino,06/13/1990,M,Italia,Italia,C129
+rec_2763,entity_1505,B,Mamadou,Drame,05/29/2004,M,Senegal,Senegal,Z343
+rec_2765,entity_1552,B,Charles,Bnitah,07/09/1977,M,Marocco,Marocco,Z330
+rec_2767,entity_1191,B,Gabriele,Salviati,05/29/1987,M,Italia,Italia,L155
+rec_2770,entity_652,B,Ettore,Cremonesi,03/26/1968,M,Italia,Italia,F797
+rec_2772,entity_924,B,Giovanni,Lattuada,05/18/1981,M,Italia,Italia,A662
+rec_2776,entity_1966,B,Marian,Costea,01/09/1982,M,Romania,Romania,Z129
+rec_2780,entity_110,B,Egidio,Jacsuzzi,05/04/1975,M,Italia,Italia,D379
+rec_2781,entity_1230,B,Patrick,Bramante,11/19/1985,M,Italia,Italia,F839
+rec_2784,entity_989,B,Pier Albrrto,Testoni,05/01/1990,M,Italia,Italia,L131
+rec_2786,entity_1187,B,Elvio,Banchero,03/06/1992,M,Italia,Italia,G273
+rec_2787,entity_248,B,Riccardo Giorgio,Materizzi,06/02/1989,M,Italia,Italia,H501
+rec_2792,entity_294,B,Andrea,Benekli,12/26/1962,M,Italia,Italia,H703
+rec_2796,entity_1291,B,Danilo,Di Lca,06/30/1980,M,Italia,Italia,A652
+rec_2798,entity_601,B,Adriano,Correr,09/30/1967,M,Italia,Italia,G888
+rec_2799,entity_1583,B,Simion,Ismailciuc,04/22/1981,M,Romania,Romania,Z129
+rec_2804,entity_1434,B,Abdelhadi,Legdali,09/06/1989,M,Marocco,Marocco,Z330
+rec_2809,entity_1688,B,Adeoye,Adetunji,06/24/1992,M,Nigeria,Nigeria,Z335
+rec_2812,entity_681,B,German Claudio,Scarone,05/25/1988,M,Italia,Italia,F205
+rec_2813,entity_902,B,Gustavo,Conti,08/31/1948,M,Italia,Italia,L273
+rec_2819,entity_1409,B,Francisc,Vatag,03/08/2000,M,Romania,Romania,Z129
+rec_2821,entity_810,B,Ermed,Zacchia,05/15/1966,M,Italia,Italia,A474
+rec_2822,entity_47,B,Maria Antonietta Rita,Strumolo,11/03/1955,F,Svizzera,Italia,Z133
+rec_2825,entity_463,B,Antonello,Riva,06/16/2003,M,Italia,Italia,L049
+rec_2839,entity_971,B,Fabiom,Pasini,07/24/1966,M,Italia,Italia,F585
+rec_2842,entity_162,B,Nifo,Morlacchi,03/05/1973,M,Italia,Italia,C990
+rec_2845,entity_174,B,Bino,Bini,12/02/1971,M,Italia,Italia,H703
+rec_2846,entity_1077,B,Luciano,Pareto,05/13/1973,M,Italia,Italia,F023
+rec_2847,entity_224,B,Giorgio,Pennacchieyti,12/03/1969,M,Italia,Italia,D773
+rec_2852,entity_1486,B,Salah,Qoqache,06/19/1994,M,Marocco,Marocco,Z330
+rec_2854,entity_301,B,Roberto,Mottola,04/13/1974,M,Italia,Italia,H501
+rec_2859,entity_368,B,Gustavo,Sgalambro,06/15/1980,M,Italia,Italia,I829
+rec_2861,entity_215,B,Emanuele,Gaudiano,09/11/1963,M,Italia,Italia,B354
+rec_2865,entity_1533,B,Allamouta,Samateh,07/31/1986,M,Gambia,Gambia,Z317
+rec_2866,entity_1113,B,Virgili oFelice,Levratto,02/26/2002,M,Italia,Italia,F258
+rec_2870,entity_1238,B,Fabio,Pecchi,05/30/1995,M,Italia,Italia,D711
+rec_2874,entity_795,B,Fortuanto,Fallaci,10/04/1964,M,Italia,Italia,H703
+rec_2876,entity_1225,B,Giuseppe,Gregorio,07/05/1970,M,Italia,Italia,L833
+rec_2877,entity_1361,B,Amelia,Okoli,03/18/2004,F,Nigeria,Nigeria,Z335
+rec_2878,entity_22,B,Claudia,Pedrazzini,06/28/1977,F,Italia,Italia,C361
+rec_2879,entity_1269,B,Giuseppe,Mascheroni,11/08/1975,M,Italia,Italia,G337
+rec_2880,entity_1752,B,Haabu,Ndow,01/23/1963,M,Gambia,Gambia,Z317
+rec_2884,entity_1187,B,Elvio,Banchero,03/06/1992,M,Italia,Italia,G273
+rec_2886,entity_1791,B,Joseph,Aoun,05/04/1984,M,Libano,Libano,Z229
+rec_2890,entity_344,B,Orazio,Casagrande,10/07/1969,M,Italia,Italia,E648
+rec_2892,entity_122,B,Ernesto,Soffici,05/11/1962,M,Italia,Italia,A944
+rec_2898,entity_407,B,Emilio,Cavanna,05/01/1971,M,Italia,Italia,G273
+rec_2899,entity_1594,B,Shmani,Triki,08/31/1990,M,Marocco,Marocco,Z330
+rec_2900,entity_1502,B,Alexandru,Uli,04/07/1987,M,Romania,Romania,Z129
+rec_2906,entity_819,B,Michelangelo,Crispi,03/19/1968,M,Italia,Italia,G674
+rec_2908,entity_258,B,Ermes,Agostini,06/20/1985,M,Italia,Italia,C349
+rec_2910,entity_435,B,Giuseppe,Avellone,09/25/1966,M,Italia,Italia,F952
+rec_2913,entity_722,B,Alderano,Vanvitelli,10/28/1983,M,Italia,Italia,D704
+rec_2917,entity_719,B,Gianpietro,Andreotti,04/21/1978,M,Italia,Italia,G698
+rec_2918,entity_1760,B,Makrem,Ayed,06/17/1978,M,Tunisia,Tunisia,Z352
+rec_2920,entity_335,B,Ottavio,Cogliati,04/26/1973,M,Italia,Italia,A014
+rec_2926,entity_29,B,Maria,Cocuzza,09/06/1976,F,Italia,Italia,A479
+rec_2927,entity_481,B,Raffaellino,Tedesco,10/26/1963,M,Italia,Italia,F205
+rec_2928,entity_1463,B,Amine,Hafid,05/10/1965,M,Marocco,Marocco,Z330
+rec_2935,entity_1789,B,Mehdi,Benomar,04/18/1998,M,Marocco,Marocco,Z330
+rec_2937,entity_1382,B,Ricardo,Duarte Mungi,11/11/1967,M,Peru,Peru,Z611
+rec_2938,entity_438,B,Alberto,Spinla,06/20/1976,M,Italia,Italia,I625
+rec_2942,entity_1342,B,Yufelquis Maridalia,Contreras,06/14/1990,F,Repubblica Dominicana,Repubblica Dominicana,Z505
+rec_2943,entity_1459,B,Khalif Ababacar,Dioufy,01/16/1990,M,Senegal,Senegal,Z343
+rec_2947,entity_1381,B,Rachid,El-Ghanmouni,03/11/1979,M,Marocco,Marocco,Z330
+rec_2953,entity_154,B,Piero,Baglia-Bamberghi,12/11/1984,M,Italia,Italia,G752
+rec_2955,entity_1315,B,Michele,Marchesini,01/30/1963,M,Italia,Italia,G337
+rec_2958,entity_1063,B,Filippo,Soffici,06/27/1985,M,Italia,Italia,H294
+rec_2959,entity_976,B,Nunzio,Donati,07/13/1975,M,Italia,Italia,H501
+rec_2963,entity_365,B,Maurizio,D'Achille,07/09/1979,M,Italia,Italia,D612
+rec_2964,entity_1663,B,Abderrazak,Nijam,11/24/1991,M,Marocco,Marocco,Z330
+rec_2965,entity_1216,B,Mirko,Giammusso,07/10/1967,M,Italia,Italia,A345
+rec_2970,entity_1809,B,Hammou Haddaoui,Khadir,11/11/1981,M,Marocco,Marocco,Z330
+rec_2973,entity_1351,B,Zornitsa,Marinova,04/30/1967,F,Bulgaria,Bulgaria,Z104
+rec_2976,entity_1378,B,Mahmoud,Al-Gharbi,11/23/1997,M,Tunisia,Tunisia,Z352
+rec_2979,entity_1942,B,Ahmed,Loukili,02/24/1994,M,Marocco,Marocco,Z330
+rec_2982,entity_1329,B,Marco,De Nicolo,07/18/2001,M,Italia,Italia,H501
+rec_2990,entity_577,B,Guglielmo,Soprano,07/27/1976,M,Italia,Italia,A883
+rec_2993,entity_1350,B,Eva Marie,Ditan,11/18/1986,F,Filippine,Filippine,Z216
+rec_2994,entity_341,B,Giorgio,Zuccoli,12/23/1985,M,Italia,Italia,H183
+rec_2996,entity_1324,B,Enruco,Sgrulletti,01/06/1963,M,Italia,Italia,G273
+rec_2998,entity_543,B,Daniele,Giovanardi,10/18/1963,M,Italia,Italia,E054
+rec_3002,entity_1175,B,Andrea,Pasqua,07/14/1973,M,Italia,Italia,G999
+rec_3004,entity_1182,B,Giancarli,Agazzi,02/21/1989,M,Italia,Italia,D960
+rec_3007,entity_1969,B,Sotir,Psci,02/24/1989,M,Albania,Albania,Z100
+rec_3014,entity_1627,B,Mohamed,Soussi,04/24/1991,M,Tunisia,Tunisia,Z352
+rec_3019,entity_93,B,Alberto,Angelini,10/12/1993,M,Italia,Italia,H501
+rec_3025,entity_1142,B,Ottavio,Fibonacci,02/14/1982,M,Italia,Italia,A564
+rec_3026,entity_1927,B,Hafiz,Rapishti,08/05/1997,M,Albania,Albania,Z100
+rec_3030,entity_1645,B,Xiao,Liu,04/17/1965,M,Cina,Cina,Z210
+rec_3038,entity_1589,B,Dede,Dekaj,12/08/1979,M,Albania,Albania,Z100
+rec_3039,entity_1207,B,Enzo,Cavazzoni,03/30/1990,M,Italia,Italia,I396
+rec_3040,entity_872,B,Iduino,Santoni,10/06/1976,M,Italia,Italia,C351
+rec_3041,entity_898,B,Giorgivo,Mazza,04/24/1988,M,Italia,Italia,G479
+rec_3042,entity_709,B,Ivan,Tomei,08/27/1983,M,Italia,Italia,F205
+rec_3043,entity_1094,B,Giosuè,Bonatti,02/08/1983,M,Italia,Italia,A285
+rec_3045,entity_748,B,Calogero,Saracino,01/20/1972,M,Italia,Italia,F250
+rec_3049,entity_1027,B,John,Bellio,08/28/1995,M,Italia,Italia,F205
+rec_3050,entity_421,B,Aristide,Pozzali,06/20/1965,M,Italia,Italia,B990
+rec_3052,entity_1874,B,Hassan,Amal,01/02/1996,M,Marocco,Marocco,Z330
+rec_3053,entity_880,B,Vincenzov,D'Angelo,06/30/1971,M,Italia,Italia,A662
+rec_3054,entity_1377,B,Anthony Emmanuel,Mmoh,03/01/1979,M,Nigeria,Nigeria,Z335
+rec_3057,entity_715,B,Enrico,D'Aniello,12/18/1992,M,Italia,Italia,F205
+rec_3059,entity_1060,B,Luigi Arturo,Carpaneda,04/30/1952,M,Italia,Italia,I462
+rec_3063,entity_1580,B,Abdel Aziz,Tahir,01/15/1989,M,Marocco,Marocco,Z330
+rec_3064,entity_1442,B,Paul,Four,05/07/1989,M,Francia,Francia,Z110
+rec_3065,entity_1181,B,Silvio,Martinello,09/30/1955,M,Italia,Italia,F005
+rec_3067,entity_1761,B,Zakaria,El Mahdi,12/29/1957,M,Marocco,Marocco,Z330
+rec_3068,entity_386,B,Baldi,Baldo,12/05/1962,M,Italia,Italia,G015
+rec_3070,entity_521,B,Geronimo,Gozzi,06/27/1975,M,Italia,Italia,E507
+rec_3071,entity_1883,B,Gideoni,Rodrigues Monteiro,03/10/1988,M,Brasile,Brasile,Z602
+rec_3072,entity_1212,B,Alberico,Di Cecco,05/09/1973,M,Italia,Italia,H501
+rec_3073,entity_1,B,Valentina,Vezzali,04/11/1970,F,Italia,Italia,D615
+rec_3074,entity_838,B,Santino,Bevilacqua,04/06/1965,M,Italia,Italia,L219
+rec_3078,entity_1846,B,Mirza,Bai,11/14/2000,M,Bosnia e Erzegovina,Bosnia e Erzegovina,Z153
+rec_3080,entity_1565,B,Salah,Fettouh,08/01/1978,M,Marocco,Marocco,Z330
+rec_3084,entity_1666,B,Stephane Diarra,Badji,02/06/1991,M,Senegal,Senegal,Z343
+rec_3092,entity_892,B,Andrea,Pietrangeli,09/21/1982,M,Italia,Italia,L219
+rec_3093,entity_1514,B,Musa,Bojang,10/01/1970,M,Gambia,Gambia,Z317
+rec_3094,entity_652,B,Ettore,Cremonesi,03/26/1968,M,Italia,Italia,F797
+rec_3096,entity_1674,B,Moncef,Cherif,06/06/1986,M,Tunisia,Tunisia,Z352
+rec_3098,entity_142,B,Ettore,Tavernari,08/25/1989,M,Italia,Italia,G273
+rec_3099,entity_1031,B,Longo,Andrea,05/16/1964,M,Italia,Italia,C034
+rec_3101,entity_721,B,Nunzio,Fibonacci,11/12/1992,M,Italia,Italia,C566
+rec_3104,entity_257,B,Franco,Grossi,06/23/1977,M,Brasile,Italia,Z602
+rec_3105,entity_1287,B,Giacomo,Bozzano,03/06/1992,M,Italia,Italia,A841
+rec_3109,entity_1437,B,Hamza,Abdou,08/04/1969,M,Marocco,Marocco,Z330
+rec_3110,entity_1049,B,Gerardo,Gabrieli,12/31/1959,M,Italia,Italia,B602
+rec_3112,entity_270,B,Goffredo,Magrassi,03/21/1978,M,Italia,Italia,H501
+rec_3120,entity_1227,B,Massimiliano,Michelangeli,08/09/1986,M,Italia,Italia,H294
+rec_3126,entity_832,B,Ezio,Madonia,04/30/2002,M,Canada,Italia,Z401
+rec_3129,entity_1510,B,Constlntin,Niculae,11/25/1994,M,Romania,Romania,Z129
+rec_3130,entity_1050,B,Martino,Salvini,11/19/1984,M,Italia,Italia,H501
+rec_3131,entity_1999,B,Adriatik,Hoxha,08/23/1983,M,Albania,Albania,Z100
+rec_3132,entity_1060,B,Luigi Arturo,Carpaneda,04/30/1952,M,Italia,Italia,I462
+rec_3135,entity_1904,B,Abdullahi,Shehu,12/31/1968,M,Nigeria,Nigeria,Z335
+rec_3137,entity_305,B,Massimo,Magnani,09/30/2000,M,Italia,Italia,G834
+rec_3140,entity_1277,B,Renzo,Chiocchetti,02/10/1962,M,Italia,Italia,D702
+rec_3141,entity_475,B,Giovanni,Benfrateloo,05/23/1987,M,Italia,Italia,E290
+rec_3142,entity_1378,B,Mahmoud,Al-Gharbi,11/23/1997,M,Tunisia,Tunisia,Z352
+rec_3144,entity_694,B,Silvestro,Franscini,01/07/1984,M,Italia,Italia,D789
+rec_3146,entity_1045,B,Donato,Sabia,08/14/1994,M,Italia,Italia,E098
+rec_3149,entity_1853,B,Hernan Moises,Viera Espinoza,05/01/1993,M,Peru,Peru,Z611
+rec_3151,entity_1108,B,Luciano,Galesi,05/05/1980,M,Italia,Italia,G131
+rec_3153,entity_1474,B,Irfan,Ohri,01/21/1967,M,Albania,Albania,Z100
+rec_3158,entity_1324,B,Enruco,Sgrulletti,01/06/1963,M,Italia,Italia,G273
+rec_3159,entity_804,B,Franco,Menichelli,02/08/1973,M,Italia,Italia,F377
+rec_3163,entity_577,B,Guglielmo,Soprano,07/27/1976,M,Italia,Italia,A883
+rec_3169,entity_205,B,Maurizio,Ioeio,02/23/1975,M,Italia,Italia,H625
+rec_3172,entity_359,B,Ignazio,Costalonga,05/17/1981,M,Italia,Italia,L120
+rec_3174,entity_1829,B,Nazar,Kadir,07/09/1995,M,Iraq,Iraq,Z225
+rec_3176,entity_316,B,Johann,Passler,10/06/1984,M,Italia,Italia,E415
+rec_3177,entity_1115,B,Luigi,Scarabelo,12/15/1963,M,Italia,Italia,F205
+rec_3186,entity_1341,B,Evelyn,Ebhomien,02/08/1984,F,Nigeria,Nigeria,Z335
+rec_3187,entity_1435,B,Emil,Rusu,02/15/1991,M,Romania,Romania,Z129
+rec_3190,entity_1672,B,Bounama,Tour,08/06/1989,M,Senegal,Senegal,Z343
+rec_3197,entity_619,B,Lucio,Farnese,11/20/1966,M,Italia,Italia,B639
+rec_3198,entity_764,B,Agostino,Ghesini,11/14/1971,M,Italia,Italia,G888
+rec_3200,entity_1273,B,Walter,Sentimenti,04/15/1958,M,Italia,Italia,D969
+rec_3202,entity_648,B,Italo,Mari,05/18/1969,M,Italia,Italia,G273
+rec_3203,entity_1726,B,Ghulam,Dastagir,05/02/1983,M,Afghanistan,Afghanistan,Z200
+rec_3206,entity_1123,B,Alessandro,Fei,03/29/1980,M,Italia,Italia,E472
+rec_3209,entity_180,B,Fernandl,Alloni,08/16/1982,M,Italia,Italia,G273
+rec_3213,entity_838,B,Santino,Bevilacqua,04/06/1965,M,Italia,Italia,L219
+rec_3216,entity_1192,B,Raffaellino,Ruffini,11/19/1984,M,Italia,Italia,L331
+rec_3223,entity_1327,B,Gianpaolo,Vaoier,04/22/1953,M,Italia,Italia,L736
+rec_3225,entity_779,B,Mirco,Gusldi,02/27/1963,M,Italia,Italia,L483
+rec_3235,entity_1939,B,Ymer Bej,Shijaku,01/18/1984,M,Albania,Albania,Z100
+rec_3243,entity_1873,B,Fares,Al-Ferjani,04/15/1995,M,Tunisia,Tunisia,Z352
+rec_3244,entity_476,B,Rino,Salgsri,06/04/2000,M,Italia,Italia,F965
+rec_3245,entity_596,B,Ugo,Tomeazzi,06/08/1959,M,Italia,Italia,F839
+rec_3249,entity_773,B,Fabrizio,Chiara,10/07/2003,M,Italia,Italia,D711
+rec_3251,entity_1913,B,Ashraf Helmy Abdel,Hali,09/20/1983,M,Egitto,Egitto,Z336
+rec_3252,entity_2,B,Roberta,Gentuni,07/10/1991,F,Italia,Italia,F205
+rec_3253,entity_991,B,Mqssimo,Cerutti,01/24/1981,M,Italia,Italia,G337
+rec_3254,entity_283,B,Andrea,Tebaldi,04/17/1992,M,Italia,Italia,H501
+rec_3259,entity_586,B,Stefan,Zisser,11/02/1964,M,Italia,Italia,F205
+rec_3261,entity_1219,B,Samuele,Romanini,02/24/1958,M,Francia,Italia,Z110
+rec_3263,entity_1808,B,Loni,Kristo,05/21/1978,M,Albania,Albania,Z100
+rec_3266,entity_1050,B,Martino,Salvini,11/19/1984,M,Italia,Italia,H501
+rec_3267,entity_90,B,Ugo,Locatelli,10/26/1963,M,Italia,Italia,H240
+rec_3270,entity_1701,B,Luis,Campoa,03/12/1983,M,El Salvador,El Salvador,Z506
+rec_3271,entity_268,B,Fausto,Montefiori,04/20/1967,M,Italia,Italia,I480
+rec_3273,entity_1482,B,Alberto,Gonzalez Mas,05/04/1987,M,Cile,Cile,Z603
+rec_3281,entity_528,B,Silvano,Versace,03/17/1981,M,Italia,Italia,H501
+rec_3282,entity_1084,B,Caio Gracco Giulio,De Nardo,10/19/1986,M,Italia,Italia,F205
+rec_3284,entity_49,B,Mara,Rosolen,05/26/1968,F,Italia,Italia,F839
+rec_3286,entity_356,B,Matteo,Gucci,08/10/1984,M,Italia,Italia,G535
+rec_3292,entity_520,B,Gabrio,Zandon,04/22/1974,M,Italia,Italia,A783
+rec_3298,entity_1416,B,Kouassi Franck Olivier,Brou,04/22/1992,M,Costa D'Avorio,Costa D'Avorio,Z313
+rec_3299,entity_535,B,Giulio,Rusticucci,04/11/1970,M,Italia,Italia,H501
+rec_3301,entity_1176,B,Christian,Mura,04/08/1986,M,Italia,Italia,G371
+rec_3303,entity_1266,B,Roberto,Cassio,05/10/1975,M,Italia,Italia,A401
+rec_3307,entity_610,B,Michele,Medici,07/10/1987,M,Italia,Italia,F205
+rec_3310,entity_826,B,Mono,Maccari,11/24/1985,M,Italia,Italia,H501
+rec_3314,entity_614,B,Mario,Petri,07/04/1970,M,Italia,Italia,H501
+rec_3316,entity_1689,B,Lazaro Maikel,Ruiz Gasso,11/29/1991,M,Cuba,Cuba,Z504
+rec_3319,entity_1435,B,Emil,Rusu,02/15/1991,M,Romania,Romania,Z129
+rec_3322,entity_1110,B,Emilio,Disdero,11/23/1957,M,Italia,Italia,F335
+rec_3323,entity_348,B,Maximiilan,Benassi,03/15/1996,M,Italia,Italia,G224
+rec_3333,entity_1985,B,Abderrahman,Naanaa,05/27/1978,M,Marocco,Marocco,Z330
+rec_3334,entity_1772,B,Mohamed,Karmous,12/16/1978,M,Marocco,Marocco,Z330
+rec_3335,entity_1044,B,Manlio,Rosa,05/05/1978,M,Italia,Italia,F119
+rec_3336,entity_943,B,Pierangleo,Pira,03/20/1980,M,Italia,Italia,F944
+rec_3339,entity_628,B,Giuseppe,Puli,06/04/1984,M,Italia,Italia,B832
+rec_3340,entity_455,B,Prati,Giovanni,09/20/1981,M,Italia,Italia,F205
+rec_3341,entity_1642,B,Otto Virgil,Schop,03/01/1975,M,Romania,Romania,Z129
+rec_3344,entity_952,B,Tonino,Gentileschi,04/21/1965,M,Italia,Italia,G273
+rec_3347,entity_365,B,Maurizio,D'Achille,07/09/1979,M,Italia,Italia,D612
+rec_3353,entity_1681,B,Simipn,Cuciuc,03/12/1976,M,Romania,Romania,Z129
+rec_3354,entity_1223,B,Stefano,Malinverni,07/01/1971,M,Italia,Italia,G467
+rec_3355,entity_690,B,Donato,Mascheroni,11/05/1978,M,Italia,Italia,I726
+rec_3356,entity_1657,B,Ovodiu,Forai,10/29/1964,M,Romania,Romania,Z129
+rec_3358,entity_686,B,Giacinto,Brugnaro,04/29/1996,M,Italia,Italia,F246
+rec_3359,entity_1550,B,Rexheo,Mati,09/23/2001,M,Albania,Albania,Z100
+rec_3362,entity_1372,B,Nikolay Ivanovich,Paslar,04/24/1994,M,Bulgaria,Bulgaria,Z104
+rec_3363,entity_76,B,Dante,Seczhi,07/22/1983,M,Italia,Italia,G999
+rec_3368,entity_34,B,Valentina,Uccheddu,08/06/1988,F,Italia,Italia,A271
+rec_3369,entity_1661,B,Abdly,Kellezi,02/16/1999,M,Albania,Albania,Z100
+rec_3371,entity_1878,B,Mihajlo,Miti,06/19/1989,M,Serbia,Serbia,Z158
+rec_3374,entity_1561,B,Rafal,Budzek,02/01/1974,M,Polonia,Polonia,Z127
+rec_3377,entity_1329,B,Marco,De Nicolo,07/18/2001,M,Italia,Italia,H501
+rec_3381,entity_1894,B,Alem,Toski,08/20/1988,M,Serbia,Serbia,Z158
+rec_3387,entity_1697,B,Teodoro,Alcalde Millos,01/11/1993,M,Peru,Peru,Z611
+rec_3389,entity_1275,B,Ferdinando,Mandrini,04/04/1955,M,Italia,Italia,F205
+rec_3390,entity_895,B,Salvatore,Fittipaldi,11/20/2001,M,Italia,Italia,B998
+rec_3399,entity_125,B,Pasquale,Chiabai,04/22/1963,M,Italia,Italia,H243
+rec_3404,entity_1041,B,Federico,Marietti,12/31/1984,M,Italia,Italia,G229
+rec_3405,entity_532,B,Umberto,Silvestri,06/29/1960,M,Italia,Italia,B885
+rec_3407,entity_1536,B,Filali,Mohamed,08/29/1999,M,Marocco,Marocco,Z330
+rec_3410,entity_1775,B,Ejike Christopher,Ugboaja,05/03/1973,M,Nigeria,Nigeria,Z335
+rec_3411,entity_598,B,Livio,Marsili,04/03/1986,M,Italia,Italia,H501
+rec_3412,entity_299,B,Lamberto,Sanguineti,06/18/1970,M,Italia,Italia,L840
+rec_3416,entity_224,B,Giorgio,Pennacchieyti,12/03/1969,M,Italia,Italia,D773
+rec_3417,entity_1038,B,Emanuele,Idini,11/05/1967,M,Italia,Italia,B429
+rec_3419,entity_218,B,Jacopo,Caboto,08/10/1975,M,Italia,Italia,H501
+rec_3422,entity_754,B,Mirk9,Bettin,02/02/1964,M,Italia,Italia,H501
+rec_3424,entity_1877,B,Bolesaw,Drewek,02/17/1965,M,Polonia,Polonia,Z127
+rec_3426,entity_1075,B,Orazio,Semitecolo,04/20/1966,M,Italia,Italia,D086
+rec_3427,entity_1346,B,Oksana,Illiushkina,05/22/1984,F,Ucraina,Ucraina,Z138
+rec_3444,entity_1537,B,Mevlud,Lobzhanidze,04/12/1986,M,Georgia,Georgia,Z254
+rec_3445,entity_1329,B,Marco,De Nicolo,07/18/2001,M,Italia,Italia,H501
+rec_3446,entity_845,B,Paolo,Luschi,04/10/1950,M,Italia,Italia,C415
+rec_3450,entity_1516,B,Gheorhe,Moldoveanu,12/13/1978,M,Romania,Romania,Z129
+rec_3452,entity_1570,B,Jawad,Al-Zairi,01/13/1987,M,Marocco,Marocco,Z330
+rec_3453,entity_704,B,Alfredo,Rizzo,09/02/1984,M,Italia,Italia,E329
+rec_3461,entity_128,B,Giacomo,Leone,11/22/1991,M,Italia,Italia,I695
+rec_3465,entity_570,B,Corrado,Salgari,04/09/1974,M,Italia,Italia,D612
+rec_3467,entity_932,B,Pontecorvo,Gianpaolo,12/27/1997,M,Italia,Italia,D636
+rec_3468,entity_1216,B,Mirko,Giammusso,07/10/1967,M,Italia,Italia,A345
+rec_3470,entity_1440,B,Aboubacazr,Diallo,12/24/1966,M,Guinea,Guinea,Z319
+rec_3476,entity_1087,B,Graziano,Metella,02/28/1991,M,Italia,Italia,H501
+rec_3479,entity_1692,B,Hussain,Arshad,04/06/2001,M,Pakistan,Pakistan,Z236
+rec_3481,entity_441,B,Michele,D'Oppido,02/11/1987,M,Italia,Italia,C621
+rec_3483,entity_13,B,Maria Paola,Turcutto,03/19/1986,F,Italia,Italia,L049
+rec_3485,entity_1127,B,Dionigi,Gasperi,10/20/1965,M,Italia,Italia,F704
+rec_3486,entity_1805,B,Mehrizi,Slim,06/18/1992,M,Tunisia,Tunisia,Z352
+rec_3489,entity_1662,B,Fatmir,Bushi,09/07/1990,M,Albania,Albania,Z100
+rec_3492,entity_1017,B,Mioco,Pavarotti,06/01/1974,M,Italia,Italia,F915
+rec_3496,entity_510,B,Bruno,Milesi,03/06/1991,M,Italia,Italia,D612
+rec_3498,entity_1544,B,Davor,Vlakovac,02/18/1987,M,Bosnia e Erzegovina,Bosnia e Erzegovina,Z153
+rec_3503,entity_155,B,Michele,Verdone,08/29/1993,M,Italia,Italia,A669
+rec_3509,entity_535,B,Giulio,Rusticucci,04/11/1970,M,Italia,Italia,H501
+rec_3510,entity_1133,B,Marco,Giovannetti,10/09/1974,M,Italia,Italia,H501
+rec_3517,entity_1971,B,Gamal El-Din Hamed,El-Sherbini,08/24/1987,M,Egitto,Egitto,Z336
+rec_3520,entity_496,B,Cataldo,Pisaroni,05/20/1973,M,Italia,Italia,L219
+rec_3521,entity_1248,B,Nanni,Armellini,08/04/1970,M,Italia,Italia,D704
+rec_3522,entity_1418,B,Hamid,Maroc,05/10/1980,M,Marocco,Marocco,Z330
+rec_3524,entity_1125,B,Federico,Sgarbi,12/12/1969,M,Italia,Italia,D708
+rec_3527,entity_1555,B,Moussa,Aouanouk,09/23/1993,M,Algeria,Algeria,Z301
+rec_3532,entity_1737,B,Xhelal,Zogu,06/05/1984,M,Albania,Albania,Z100
+rec_3534,entity_790,B,Giuliano,Sinisi,06/29/1989,M,Italia,Italia,H501
+rec_3537,entity_1450,B,Tarak,Dhiab,06/09/1986,M,Tunisia,Tunisia,Z352
+rec_3539,entity_177,B,Roberto,Sponza,01/11/2004,M,Italia,Italia,G273
+rec_3547,entity_1213,B,Mariano Andrea,Gottifredi,10/14/1987,M,Italia,Italia,F955
+rec_3549,entity_1470,B,Saliou,Semk,06/29/1986,M,Senegal,Senegal,Z343
+rec_3553,entity_198,B,Gianni,Lonzi,02/06/1987,M,Italia,Italia,C514
+rec_3555,entity_146,B,Gianni,Patrignani,11/02/1967,M,Italia,Italia,A515
+rec_3556,entity_828,B,Massimiliano,Mondello,09/02/1965,M,Italia,Italia,H598
+rec_3558,entity_1045,B,Donato,Sabia,08/14/1994,M,Italia,Italia,E098
+rec_3560,entity_166,B,Carlo,Sperfni,07/22/1997,M,Italia,Italia,D611
+rec_3564,entity_904,B,Giorgio,Avola,11/25/1990,M,Italia,Italia,G686
+rec_3568,entity_1851,B,Selim,Luniku,09/21/1977,M,Albania,Albania,Z100
+rec_3570,entity_1879,B,Bajram,Sinani,06/12/1980,M,Kosovo,Kosovo,Z160
+rec_3573,entity_486,B,Sergio,Leonetti,07/13/1976,M,Italia,Italia,I300
+rec_3579,entity_828,B,Massimiliano,Mondello,09/02/1965,M,Italia,Italia,H598
+rec_3580,entity_1158,B,Nunzio,Munari,08/19/1986,M,Italia,Italia,L219
+rec_3590,entity_1598,B,Constantin,Craudu,05/20/1985,M,Romania,Romania,Z129
+rec_3592,entity_195,B,Daniele,Mascheroni,02/05/1967,M,Italia,Italia,H501
+rec_3596,entity_1555,B,Moussa,Aouanouk,09/23/1993,M,Algeria,Algeria,Z301
+rec_3599,entity_861,B,Nicolas,Bean,12/24/1985,M,Italia,Italia,H501
+rec_3601,entity_875,B,Alberto,Senigagliesi,06/11/1987,M,Italia,Italia,M088
+rec_3605,entity_447,B,Tullio,Piazzi,10/02/1991,M,Italia,Italia,G686
+rec_3608,entity_1593,B,Vilmo,Szabo,08/20/1972,M,Romania,Romania,Z129
+rec_3609,entity_862,B,Constanzo,Mangino,04/18/1996,M,Italia,Italia,L259
+rec_3611,entity_669,B,Raffaello,Errigo,07/03/1969,M,Italia,Italia,F205
+rec_3615,entity_665,B,Luciano,Canova,02/22/1984,M,Italia,Italia,F205
+rec_3617,entity_1150,B,Biagio,Desio,12/02/1987,M,Italia,Italia,G252
+rec_3632,entity_1036,B,Fulvio,Spallanzani,05/21/1972,M,Italia,Italia,C957
+rec_3634,entity_129,B,Virgilio,Bruscantini,03/19/1985,M,Italia,Italia,B157
+rec_3637,entity_1212,B,Alberico,Di Cecco,05/09/1973,M,Italia,Italia,H501
+rec_3640,entity_276,B,Girolamo,Sauli,03/03/1967,M,Italia,Italia,L736
+rec_3643,entity_117,B,Michele,Zerial,09/14/1974,M,Italia,Italia,F839
+rec_3645,entity_1170,B,Antonello,Callegaro,11/02/1957,M,Italia,Italia,F205
+rec_3646,entity_10,B,Marina,Cergol,03/20/1966,F,Italia,Italia,I535
+rec_3649,entity_1704,B,Hicham El,Guerrouj,08/11/1964,M,Marocco,Marocco,Z330
+rec_3651,entity_451,B,Piero,Befcheria,07/15/1972,M,Italia,Italia,L781
+rec_3652,entity_10,B,Marina,Cergol,03/20/1966,F,Italia,Italia,I535
+rec_3653,entity_890,B,Pietro,Camporesi,03/29/1980,M,Italia,Italia,D037
+rec_3654,entity_1956,B,Faik,Shatku,11/01/1992,M,Albania,Albania,Z100
+rec_3660,entity_1052,B,Rodolfo,Rombaldoni,05/10/1975,M,Italia,Italia,H223
+rec_3665,entity_931,B,Gianni,Ronconi,08/30/1989,M,Italia,Italia,L219
+rec_3668,entity_1376,B,Mustapha,Amal,08/18/1969,M,Italia,Marocco,H501
+rec_3669,entity_1477,B,Nasserredine,Fillali,12/27/1990,M,Algeria,Algeria,Z301
+rec_3671,entity_1884,B,Najam,Yahya,10/31/1974,M,Afghanistan,Afghanistan,Z200
+rec_3678,entity_1631,B,Ahmed,Lazreg,05/09/1969,M,Marocco,Marocco,Z330
+rec_3679,entity_1561,B,Rafal,Budzek,02/01/1974,M,Polonia,Polonia,Z127
+rec_3682,entity_268,B,Fausto,Montefiori,04/20/1967,M,Italia,Italia,I480
+rec_3683,entity_39,B,Genny Caterina,Pagliaro,01/03/1966,F,Italia,Italia,G964
+rec_3684,entity_1792,B,Enriquez,Benjamin,09/20/1997,M,Filippine,Filippine,Z216
+rec_3688,entity_199,B,Salvatore,Oppes,09/26/1978,M,Italia,Italia,G273
+rec_3695,entity_1528,B,Chidi,Nwanu,05/31/1974,M,Nigeria,Nigeria,Z335
